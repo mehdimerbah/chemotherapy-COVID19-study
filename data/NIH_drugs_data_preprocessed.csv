@@ -1,13 +1,13 @@
-,Name,Alternate Name,Category,Primary Site,Sub-category
-94,Alectinib,Alecensa;ALK inhibitor CH5424802,Chemotherapy,Lung,ALK Inhibitor
-305,Brigatinib,Alunbrig,Chemotherapy,Lung,anaplastic lymphoma kinase
-513,Dacomitinib,Vizimpro,Chemotherapy,Lung,Small molecule inhibitor
-987,JNJ-6372,JNJ-61186372,Chemotherapy,Lung,Anti=EGFR antibody
-1068,Lorlatinib,Lorbrena,Chemotherapy,Lung,ALK Inhibitor
-1075,Lurbinectedin,Zepzelca,Chemotherapy,Lung,Alkylating agent
-1209,Mobocertinib,TAK 788,Chemotherapy,Lung,EGFR inhibitor
-1633,Sotorasib,Lumakras,Chemotherapy,Lung,RAS Inhibitor
-1690,Tabrecta,capmatinib,Chemotherapy,Lung,HGFR Inhibitor
-1693,Tagrisso,Osimertinib,Chemotherapy,Lung,EGFR-TKI inhibitor
-1724,Tepotinib,Tepmetki,Chemotherapy,Lung,kinase inhibitor
-1951,Zykadia,ceritinib,Chemotherapy,Lung,ALK tyrosine kinase inhibitor
+Name,Alternate Name,Category,Primary Site,Sub-category
+Alectinib,Alecensa;ALK inhibitor CH5424802,Chemotherapy,Lung,ALK Inhibitor
+Brigatinib,Alunbrig,Chemotherapy,Lung,anaplastic lymphoma kinase
+Dacomitinib,Vizimpro,Chemotherapy,Lung,Small molecule inhibitor
+JNJ-6372,JNJ-61186372,Chemotherapy,Lung,Anti=EGFR antibody
+Lorlatinib,Lorbrena,Chemotherapy,Lung,ALK Inhibitor
+Lurbinectedin,Zepzelca,Chemotherapy,Lung,Alkylating agent
+Mobocertinib,TAK 788,Chemotherapy,Lung,EGFR inhibitor
+Sotorasib,Lumakras,Chemotherapy,Lung,RAS Inhibitor
+Tabrecta,capmatinib,Chemotherapy,Lung,HGFR Inhibitor
+Tagrisso,Osimertinib,Chemotherapy,Lung,EGFR-TKI inhibitor
+Tepotinib,Tepmetki,Chemotherapy,Lung,kinase inhibitor
+Zykadia,ceritinib,Chemotherapy,Lung,ALK tyrosine kinase inhibitor
