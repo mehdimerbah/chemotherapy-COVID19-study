@@ -1,0 +1,2491 @@
+Title - COVID-19 Drug Data in Raw Format
+Version 7.2.01 (2020.06.01)
+Provided by IDRB   Lab of Innovative Drug Reasearch and Bioinformatics
+                   College of Pharmaceutical Sciences
+                   Zhejiang University
+                   https://idrblab.org/
+Any question about data provided here, please contact with:
+Dr. Wang (lfwyx@zju.edu.cn) and Dr. Li (lifengcheng@zju.edu.cn)
+
+--------------------------------------------------------------------------------------------------------
+Abbreviations:
+
+DRUGNAME	Drug Name
+DRUGTYPE	Drug Type
+DISEASES	Disease Entry
+DRUGSTAT	Drug Status
+TARGNAME	Target Name
+PCHEMCID	PubChem_CID
+HIGHSTAT	Drug Highest Status
+HIGHDISE	Disease of Drug Highest Status
+--------------------------------------------------------------------------------------------------------
+
+DRUG0233	DRUGNAME	Remdesivir	
+DRUG0233	DRUGTYPE	Small molecular drug	
+DRUG0233	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0233	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0233	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0233	PCHEMCID	CID: 121304016	
+			
+DRUG0234	DRUGNAME	Favipiravir	
+DRUG0234	DRUGTYPE	Small molecular drug	
+DRUG0234	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0234	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0234	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0234	PCHEMCID	CID: 4424075	
+DRUG0234	HIGHSTAT	Approved	
+DRUG0234	HIGHDISE	Influenza virus infection	
+			
+DRUG0191	DRUGNAME	Baricitinib	
+DRUG0191	DRUGTYPE	Small molecular drug	
+DRUG0191	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0191	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0191	TARGNAME	HUMAN adaptor-associated kinase 1 (AAK1)	AAK1_HUMAN
+DRUG0191	TARGNAME	HUMAN cyclin G-associated kinase (GAK)	GAK_HUMAN
+DRUG0191	PCHEMCID	CID: 44205240	
+DRUG0191	HIGHSTAT	Approved	
+DRUG0191	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0225	DRUGNAME	Anakinra	
+DRUG0225	DRUGTYPE	Small molecular drug	
+DRUG0225	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0225	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0225	TARGNAME	HUMAN interleukin-1 receptor 1 (IL1R1)	IL1R1_HUMAN
+DRUG0225	PCHEMCID	CID: 139595263	
+DRUG0225	HIGHSTAT	Approved	
+DRUG0225	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0202	DRUGNAME	Ruxolitinib	
+DRUG0202	DRUGTYPE	Small molecular drug	
+DRUG0202	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0202	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0202	TARGNAME	HUMAN janus kinase 1 (JAK-1)	JAK1_HUMAN
+DRUG0202	TARGNAME	HUMAN janus kinase 2 (JAK-2)	JAK2_HUMAN
+DRUG0202	PCHEMCID	CID: 25126798	
+DRUG0202	HIGHSTAT	Approved	
+DRUG0202	HIGHDISE	Myelofibrosis	
+			
+DRUG0205	DRUGNAME	Isotretinoin	
+DRUG0205	DRUGTYPE	Small molecular drug	
+DRUG0205	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0205	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0205	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+DRUG0205	PCHEMCID	CID: 5282379	
+			
+DRUG0189	DRUGNAME	IMU-838	
+DRUG0189	DRUGTYPE	Small molecular drug	
+DRUG0189	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0189	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0189	TARGNAME	HUMAN dihydroorotate dehydrogenase (DHODH)	PYRD_HUMAN
+DRUG0189	PCHEMCID	CID: 9820008	
+			
+DRUG0172	DRUGNAME	Nafamostat	
+DRUG0172	DRUGTYPE	Small molecular drug	
+DRUG0172	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0172	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0172	TARGNAME	COVID-19 spike glycoprotein (S)	SPIKE_SARS2
+DRUG0172	PCHEMCID	CID: 4413	
+			
+DRUG0242	DRUGNAME	Captopril	
+DRUG0242	DRUGTYPE	Small molecular drug	
+DRUG0242	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0242	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0242	TARGNAME	HUMAN angiotensin-converting enzyme (ACE)	ACE_HUMAN
+DRUG0242	PCHEMCID	CID: 44093	
+DRUG0242	HIGHSTAT	Approved	
+DRUG0242	HIGHDISE	Hypertension	
+			
+DRUG0238	DRUGNAME	Telmisartan	
+DRUG0238	DRUGTYPE	Small molecular drug	
+DRUG0238	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0238	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0238	TARGNAME	HUMAN type-1 angiotensin II receptor (AGTR1)	AGTR1_HUMAN
+DRUG0238	PCHEMCID	CID: 65999	
+DRUG0238	HIGHSTAT	Approved	
+DRUG0238	HIGHDISE	Hypertension	
+			
+DRUG0239	DRUGNAME	Losartan	
+DRUG0239	DRUGTYPE	Small molecular drug	
+DRUG0239	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0239	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0239	TARGNAME	HUMAN type-1 angiotensin II receptor (AGTR1)	AGTR1_HUMAN
+DRUG0239	PCHEMCID	CID: 3961	
+DRUG0239	HIGHSTAT	Approved	
+DRUG0239	HIGHDISE	Hypertension	
+			
+DRUG0245	DRUGNAME	Linagliptin	
+DRUG0245	DRUGTYPE	Small molecular drug	
+DRUG0245	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0245	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0245	TARGNAME	HUMAN dipeptidyl peptidase 4 (DPP-4)	DPP4_HUMAN
+DRUG0245	PCHEMCID	CID: 10096344	
+DRUG0245	HIGHSTAT	Approved	
+DRUG0245	HIGHDISE	Type 2 diabetes	
+			
+DRUG0231	DRUGNAME	Sildenafil	
+DRUG0231	DRUGTYPE	Small molecular drug	
+DRUG0231	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0231	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0231	TARGNAME	HUMAN phosphodiesterase type 5 (PDE5)	PDE5A_HUMAN
+DRUG0231	PCHEMCID	CID: 135398744	
+DRUG0231	HIGHSTAT	Approved	
+DRUG0231	HIGHDISE	Erectile dysfunction	
+			
+DRUG0185	DRUGNAME	Verapamil	
+DRUG0185	DRUGTYPE	Small molecular drug	
+DRUG0185	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0185	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0185	TARGNAME	HUMAN two pore channel subtype 2 (TPC2)	TPC2_HUMAN
+DRUG0185	PCHEMCID	CID: 2520	
+DRUG0185	HIGHSTAT	Approved	
+DRUG0185	HIGHDISE	High blood pressure	
+			
+DRUG0186	DRUGNAME	Amiodarone	
+DRUG0186	DRUGTYPE	Small molecular drug	
+DRUG0186	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0186	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0186	TARGNAME	HUMAN two pore channel subtype 2 (TPC2)	TPC2_HUMAN
+DRUG0186	PCHEMCID	CID: 2157	
+DRUG0186	HIGHSTAT	Approved	
+DRUG0186	HIGHDISE	Ventricular tachycardia	
+			
+DRUG0241	DRUGNAME	Ramipril	
+DRUG0241	DRUGTYPE	Small molecular drug	
+DRUG0241	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0241	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0241	TARGNAME	HUMAN angiotensin-converting enzyme (ACE)	ACE_HUMAN
+DRUG0241	PCHEMCID	CID: 5362129	
+DRUG0241	HIGHSTAT	Approved	
+DRUG0241	HIGHDISE	Heart failure	
+			
+DRUG0163	DRUGNAME	Acalabrutinib	
+DRUG0163	DRUGTYPE	Small molecular drug	
+DRUG0163	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0163	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0163	TARGNAME	HUMAN bruton tyrosine kinase (BTK)	BTK_HUMAN
+DRUG0163	PCHEMCID	CID: 71226662	
+DRUG0163	HIGHSTAT	Approved	
+DRUG0163	HIGHDISE	Leukemia	
+			
+DRUG0156	DRUGNAME	BLD-2660	
+DRUG0156	DRUGTYPE	Small molecular drug	
+DRUG0156	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0156	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0156	TARGNAME	HUMAN calpain-1/calpain small subunit 1 dimer (CAPN1/CAPNS1)	CAN1_HUMAN/CPNS1_HUMAN
+DRUG0156	TARGNAME	HUMAN calpain-2/calpain small subunit 1 dimer (CAPN2/CAPNS1)	CAN2_HUMAN/CPNS1_HUMAN
+			
+DRUG0169	DRUGNAME	Sirolimus	
+DRUG0169	DRUGTYPE	Small molecular drug	
+DRUG0169	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0169	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0169	TARGNAME	HUMAN mammalian target of rapamycin (mTOR)	MTOR_HUMAN
+DRUG0169	PCHEMCID	CID: 5284616	
+DRUG0169	HIGHSTAT	Approved	
+DRUG0169	HIGHDISE	Lymphangioleiomyomatosis	
+			
+DRUG0160	DRUGNAME	Duvelisib	
+DRUG0160	DRUGTYPE	Small molecular drug	
+DRUG0160	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0160	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0160	TARGNAME	HUMAN PI3-kinase delta (PIK3CD)	PK3CD_HUMAN
+DRUG0160	TARGNAME	HUMAN PI3-kinase gamma (PIK3CG)	PK3CG_HUMAN
+DRUG0160	PCHEMCID	CID: 50905713	
+DRUG0160	HIGHSTAT	Approved	
+DRUG0160	HIGHDISE	Follicular lymphoma	
+			
+DRUG0171	DRUGNAME	Camostat mesylate	
+DRUG0171	DRUGTYPE	Small molecular drug	
+DRUG0171	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0171	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0171	TARGNAME	HUMAN transmembrane protease serine 2 (TMPRSS2)	TMPS2_HUMAN
+DRUG0171	PCHEMCID	CID: 5284360	
+			
+DRUG0155	DRUGNAME	Rintatolimod	
+DRUG0155	DRUGTYPE	Small molecular drug	
+DRUG0155	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0155	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+DRUG0155	TARGNAME	HUMAN toll-like receptor 3 (TLR3)	TLR3_HUMAN
+DRUG0155	PCHEMCID	CID: 135537060	
+DRUG0155	HIGHSTAT	Phase 3	
+DRUG0155	HIGHDISE	Chronic Fatigue Syndrome	
+			
+DRUG0188	DRUGNAME	Leflunomide	
+DRUG0188	DRUGTYPE	Small molecular drug	
+DRUG0188	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0188	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0188	TARGNAME	HUMAN dihydroorotate dehydrogenase (DHODH)	PYRD_HUMAN
+DRUG0188	PCHEMCID	CID: 3899	
+DRUG0188	HIGHSTAT	Approved	
+DRUG0188	HIGHDISE	Multiple sclerosis	
+			
+DRUG0232	DRUGNAME	Galidesivir	
+DRUG0232	DRUGTYPE	Small molecular drug	
+DRUG0232	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0232	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0232	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0232	PCHEMCID	CID: 69211190	
+			
+DRUG0243	DRUGNAME	Lisinopril	
+DRUG0243	DRUGTYPE	Small molecular drug	
+DRUG0243	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0243	DRUGSTAT	Investigative Agent	
+DRUG0243	TARGNAME	HUMAN angiotensin-converting enzyme (ACE)	ACE_HUMAN
+DRUG0243	PCHEMCID	CID: 5362119	
+DRUG0243	HIGHSTAT	Approved	
+DRUG0243	HIGHDISE	Hypertension	
+			
+DRUG0255	DRUGNAME	Carvedilol	
+DRUG0255	DRUGTYPE	Small molecular drug	
+DRUG0255	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0255	DRUGSTAT	Investigative Agent	
+DRUG0255	TARGNAME	HUMAN beta adrenergic receptor (BAR)	ADRB1_HUMAN; ADRB2_HUMAN; ADRB3_HUMAN
+DRUG0255	PCHEMCID	CID: 2585	
+DRUG0255	HIGHSTAT	Approved	
+DRUG0255	HIGHDISE	Heart failure	
+			
+DRUG0240	DRUGNAME	Irbesartan	
+DRUG0240	DRUGTYPE	Small molecular drug	
+DRUG0240	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0240	DRUGSTAT	Investigative Agent	
+DRUG0240	TARGNAME	HUMAN type-1 angiotensin II receptor (AGTR1)	AGTR1_HUMAN
+DRUG0240	PCHEMCID	CID: 3749	
+DRUG0240	HIGHSTAT	Approved	
+DRUG0240	HIGHDISE	Hypertension	
+			
+DRUG0253	DRUGNAME	JQ1	
+DRUG0253	DRUGTYPE	Small molecular drug	
+DRUG0253	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0253	DRUGSTAT	Investigative Agent	
+DRUG0253	TARGNAME	HUMAN bromodomain-containing protein 2 (BRD2)	BRD2_HUMAN
+DRUG0253	PCHEMCID	CID: 46907787	
+			
+DRUG0254	DRUGNAME	ABBV-744	
+DRUG0254	DRUGTYPE	Small molecular drug	
+DRUG0254	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0254	DRUGSTAT	Investigative Agent	
+DRUG0254	TARGNAME	HUMAN bromodomain-containing protein 2 (BRD2)	BRD2_HUMAN
+DRUG0254	PCHEMCID	CID: 132010322	
+			
+DRUG0257	DRUGNAME	Silmitasertib	
+DRUG0257	DRUGTYPE	Small molecular drug	
+DRUG0257	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0257	DRUGSTAT	Investigative Agent	
+DRUG0257	TARGNAME	HUMAN casein kinase II (CSK2)	CSK21_HUMAN; CSK22_HUMAN; CSK23_HUMAN; CSK2B_HUMAN
+DRUG0257	PCHEMCID	CID: 24748573	
+DRUG0257	HIGHSTAT	Phase 1/2	
+DRUG0257	HIGHDISE	Cholangiocarcinoma	
+			
+DRUG0152	DRUGNAME	Ribavirin	
+DRUG0152	DRUGTYPE	Small molecular drug	
+DRUG0152	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0152	DRUGSTAT	Investigative Agent	
+DRUG0152	TARGNAME	HUMAN inosine-5'-monophosphate dehydrogenase 1 (IMPDH1)	IMDH1_HUMAN
+DRUG0152	TARGNAME	HUMAN inosine-5'-monophosphate dehydrogenase 2 (IMPDH2)	IMDH2_HUMAN
+DRUG0152	PCHEMCID	CID: 37542	
+			
+DRUG0251	DRUGNAME	Merimepodib	
+DRUG0251	DRUGTYPE	Small molecular drug	
+DRUG0251	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0251	DRUGSTAT	Investigative Agent	
+DRUG0251	TARGNAME	HUMAN inosine-5'-monophosphate dehydrogenase 2 (IMPDH2)	IMDH2_HUMAN
+DRUG0251	PCHEMCID	CID: 153241	
+DRUG0251	HIGHSTAT	Phase 2b	
+DRUG0251	HIGHDISE	Hepatitis C virus infection	
+			
+DRUG0214	DRUGNAME	Fedratinib	
+DRUG0214	DRUGTYPE	Small molecular drug	
+DRUG0214	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0214	DRUGSTAT	Investigative Agent	
+DRUG0214	TARGNAME	HUMAN janus kinase 2 (JAK-2)	JAK2_HUMAN
+DRUG0214	PCHEMCID	CID: 16722836	
+DRUG0214	HIGHSTAT	Approved	
+DRUG0214	HIGHDISE	Polycythemia vera	
+			
+DRUG0252	DRUGNAME	Metformin	
+DRUG0252	DRUGTYPE	Small molecular drug	
+DRUG0252	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0252	DRUGSTAT	Investigative Agent	
+DRUG0252	TARGNAME	HUMAN mannose receptor (MRC1)	MRC1_HUMAN
+DRUG0252	PCHEMCID	CID: 4091	
+DRUG0252	HIGHSTAT	Approved	
+DRUG0252	HIGHDISE	Type 2 diabetes	
+			
+DRUG0170	DRUGNAME	Sapanisertib	
+DRUG0170	DRUGTYPE	Small molecular drug	
+DRUG0170	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0170	DRUGSTAT	Investigative Agent	
+DRUG0170	TARGNAME	HUMAN mammalian target of rapamycin (mTOR)	MTOR_HUMAN
+DRUG0170	PCHEMCID	CID: 45375953	
+DRUG0170	HIGHSTAT	Phase 2	
+DRUG0170	HIGHDISE	Breast Cancer	
+			
+DRUG0235	DRUGNAME	Suramin	
+DRUG0235	DRUGTYPE	Small molecular drug	
+DRUG0235	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0235	DRUGSTAT	Investigative Agent	
+DRUG0235	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0235	PCHEMCID	CID: 5361	
+DRUG0235	HIGHSTAT	Phase 1	
+DRUG0235	HIGHDISE	African trypanosomiasis	
+			
+DRUG0236	DRUGNAME	Penciclovir	
+DRUG0236	DRUGTYPE	Small molecular drug	
+DRUG0236	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0236	DRUGSTAT	Investigative Agent	
+DRUG0236	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0236	PCHEMCID	CID: 135398748	
+DRUG0236	HIGHSTAT	Approved	
+DRUG0236	HIGHDISE	Recurrent herpes labialis	
+			
+DRUG0237	DRUGNAME	Anidulafungin	
+DRUG0237	DRUGTYPE	Small molecular drug	
+DRUG0237	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0237	DRUGSTAT	Investigative Agent	
+DRUG0237	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0237	PCHEMCID	CID: 166548	
+DRUG0237	HIGHSTAT	Approved	
+DRUG0237	HIGHDISE	Candidiasis	
+			
+DRUG0206	DRUGNAME	Tideglusib	
+DRUG0206	DRUGTYPE	Small molecular drug	
+DRUG0206	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0206	DRUGSTAT	Investigative Agent	
+DRUG0206	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+DRUG0206	PCHEMCID	CID: 11313622	
+DRUG0206	HIGHSTAT	Phase 2	
+DRUG0206	HIGHDISE	Alzheimer disease	
+			
+DRUG0207	DRUGNAME	SPI-1005	
+DRUG0207	DRUGTYPE	Small molecular drug	
+DRUG0207	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0207	DRUGSTAT	Investigative Agent	
+DRUG0207	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+DRUG0207	PCHEMCID	CID: 3194	
+DRUG0207	HIGHSTAT	Phase 2b	
+DRUG0207	HIGHDISE	Meniere disease	
+			
+DRUG0208	DRUGNAME	PX-12	
+DRUG0208	DRUGTYPE	Small molecular drug	
+DRUG0208	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0208	DRUGSTAT	Investigative Agent	
+DRUG0208	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+DRUG0208	HIGHSTAT	Phase 2	
+DRUG0208	HIGHDISE	Pancreatic cancer	
+			
+DRUG0209	DRUGNAME	PMID32321856-compound-11b	
+DRUG0209	DRUGTYPE	Small molecular drug	
+DRUG0209	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0209	DRUGSTAT	Investigative Agent	
+DRUG0209	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+			
+DRUG0210	DRUGNAME	PMID32321856-compound-11a	
+DRUG0210	DRUGTYPE	Small molecular drug	
+DRUG0210	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0210	DRUGSTAT	Investigative Agent	
+DRUG0210	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+			
+DRUG0176	DRUGNAME	PMID26868298-compound-N3	
+DRUG0176	DRUGTYPE	Small molecular drug	
+DRUG0176	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0176	DRUGSTAT	Investigative Agent	
+DRUG0176	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+			
+DRUG0211	DRUGNAME	Isoarnebin 4	
+DRUG0211	DRUGTYPE	Small molecular drug	
+DRUG0211	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0211	DRUGSTAT	Investigative Agent	
+DRUG0211	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+			
+DRUG0212	DRUGNAME	Hexylcarbamoyl fluorouracil	
+DRUG0212	DRUGTYPE	Small molecular drug	
+DRUG0212	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0212	DRUGSTAT	Investigative Agent	
+DRUG0212	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+DRUG0212	PCHEMCID	CID: 2577	
+			
+DRUG0213	DRUGNAME	Disulfiram	
+DRUG0213	DRUGTYPE	Small molecular drug	
+DRUG0213	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0213	DRUGSTAT	Investigative Agent	
+DRUG0213	TARGNAME	COVID-19 papain-like proteinase (PL-PRO)	R1AB_SARS2 (PL-PRO)
+DRUG0213	HIGHSTAT	Approved	
+DRUG0213	HIGHDISE	Alcohol dependence	
+			
+DRUG0179	DRUGNAME	GC376	
+DRUG0179	DRUGTYPE	Small molecular drug	
+DRUG0179	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0179	DRUGSTAT	Investigative Agent	
+DRUG0179	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+DRUG0179	PCHEMCID	CID: 71481119	
+			
+DRUG0223	DRUGNAME	Boceprevir	
+DRUG0223	DRUGTYPE	Small molecular drug	
+DRUG0223	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0223	DRUGSTAT	Investigative Agent	
+DRUG0223	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+DRUG0223	PCHEMCID	CID: 10324367	
+			
+DRUG0260	DRUGNAME	PB28	
+DRUG0260	DRUGTYPE	Small molecular drug	
+DRUG0260	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0260	DRUGSTAT	Investigative Agent	
+DRUG0260	TARGNAME	HUMAN opioid receptor sigma 1 (OPRS1)	SGMR1_HUMAN
+DRUG0260	TARGNAME	HUMAN sigma intracellular receptor 2 (TMEM97)	SGMR2_HUMAN
+			
+DRUG0261	DRUGNAME	Haloperidol	
+DRUG0261	DRUGTYPE	Small molecular drug	
+DRUG0261	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0261	DRUGSTAT	Investigative Agent	
+DRUG0261	TARGNAME	HUMAN opioid receptor sigma 1 (OPRS1)	SGMR1_HUMAN
+DRUG0261	TARGNAME	HUMAN sigma intracellular receptor 2 (TMEM97)	SGMR2_HUMAN
+DRUG0261	PCHEMCID	CID: 3559	
+DRUG0261	HIGHSTAT	Approved	
+DRUG0261	HIGHDISE	Schizophrenia	
+			
+DRUG0258	DRUGNAME	RS-PPCC	
+DRUG0258	DRUGTYPE	Small molecular drug	
+DRUG0258	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0258	DRUGSTAT	Investigative Agent	
+DRUG0258	TARGNAME	HUMAN opioid receptor sigma 1 (OPRS1)	SGMR1_HUMAN
+			
+DRUG0259	DRUGNAME	PD-144418	
+DRUG0259	DRUGTYPE	Small molecular drug	
+DRUG0259	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0259	DRUGSTAT	Investigative Agent	
+DRUG0259	TARGNAME	HUMAN opioid receptor sigma 1 (OPRS1)	SGMR1_HUMAN
+DRUG0259	PCHEMCID	CID: 9817231	
+			
+DRUG0262	DRUGNAME	E-52862	
+DRUG0262	DRUGTYPE	Small molecular drug	
+DRUG0262	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0262	DRUGSTAT	Investigative Agent	
+DRUG0262	TARGNAME	HUMAN opioid receptor sigma 1 (OPRS1)	SGMR1_HUMAN
+DRUG0262	PCHEMCID	CID: 44247568	
+			
+DRUG0151	DRUGNAME	NMS-873	
+DRUG0151	DRUGTYPE	Small molecular drug	
+DRUG0151	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0151	DRUGSTAT	Investigative Agent	
+DRUG0151	TARGNAME	HUMAN valosin-containing protein p97 (VCP)	TERA_HUMAN
+DRUG0151	PCHEMCID	CID: 71521142	
+			
+DRUG0227	DRUGNAME	Ravulizumab	
+DRUG0227	DRUGTYPE	Monoclonal antibody	
+DRUG0227	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0227	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0227	TARGNAME	HUMAN complement C5 protein (C5)	CO5_HUMAN
+DRUG0227	PCHEMCID	SID: 363669767	
+DRUG0227	HIGHSTAT	Approved	
+DRUG0227	HIGHDISE	Paroxysmal nocturnal hemoglobinuria	
+			
+DRUG0230	DRUGNAME	Lenzilumab	
+DRUG0230	DRUGTYPE	Monoclonal antibody	
+DRUG0230	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0230	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0230	TARGNAME	HUMAN colony-stimulating factor (GM-CSF)	CSF2_HUMAN
+DRUG0230	PCHEMCID	SID: 310264716	
+			
+DRUG0249	DRUGNAME	Siltuximab	
+DRUG0249	DRUGTYPE	Monoclonal antibody	
+DRUG0249	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0249	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0249	TARGNAME	HUMAN interleukin 6 (IL6)	IL6_HUMAN
+DRUG0249	PCHEMCID	SID: 124490409	
+DRUG0249	HIGHSTAT	Approved	
+DRUG0249	HIGHDISE	Idiopathic multicentric Castleman disease	
+			
+DRUG0203	DRUGNAME	Tocilizumab	
+DRUG0203	DRUGTYPE	Monoclonal antibody	
+DRUG0203	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0203	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0203	TARGNAME	HUMAN interleukin-6 receptor (IL6R)	IL6RA_HUMAN; IL6RB_HUMAN
+DRUG0203	HIGHSTAT	Approved	
+DRUG0203	HIGHDISE	Giant cell arteritis	
+			
+DRUG0204	DRUGNAME	Sarilumab	
+DRUG0204	DRUGTYPE	Monoclonal antibody	
+DRUG0204	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0204	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0204	TARGNAME	HUMAN interleukin-6 receptor (IL6R)	IL6RA_HUMAN; IL6RB_HUMAN
+DRUG0204	HIGHSTAT	Approved	
+DRUG0204	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0184	DRUGNAME	IFX-1	
+DRUG0184	DRUGTYPE	Monoclonal antibody	
+DRUG0184	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0184	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0184	TARGNAME	HUMAN complement C5 alpha (C5A)	CO5_HUMAN (C5A)
+DRUG0184	PCHEMCID	CID: 137254326	
+			
+DRUG0183	DRUGNAME	Emapalumab	
+DRUG0183	DRUGTYPE	Monoclonal antibody	
+DRUG0183	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0183	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0183	TARGNAME	HUMAN interferon gamma (IFNG)	IFNG_HUMAN
+DRUG0183	PCHEMCID	SID: 318164814	
+DRUG0183	HIGHSTAT	Approved	
+DRUG0183	HIGHDISE	Primary haemophagocytic lymphohistiocytosis	
+			
+DRUG0248	DRUGNAME	Olokizumab	
+DRUG0248	DRUGTYPE	Monoclonal antibody	
+DRUG0248	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0248	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0248	TARGNAME	HUMAN interleukin 6 (IL6)	IL6_HUMAN
+DRUG0248	PCHEMCID	SID: 160677293	
+DRUG0248	HIGHSTAT	Phase 3	
+DRUG0248	HIGHDISE	Rheumatoid Arthritis	
+			
+DRUG0190	DRUGNAME	Bevacizumab	
+DRUG0190	DRUGTYPE	Monoclonal antibody	
+DRUG0190	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0190	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0190	TARGNAME	HUMAN vascular endothelial growth factor (VEGF)	VEGFA_HUMAN; VEGFB_HUMAN; VEGFC_HUMAN; VEGFD_HUMAN
+DRUG0190	HIGHSTAT	Approved	
+DRUG0190	HIGHDISE	Metastatic colorectal cancer	
+			
+DRUG0161	DRUGNAME	LY3127804	
+DRUG0161	DRUGTYPE	Monoclonal antibody	
+DRUG0161	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0161	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0161	TARGNAME	HUMAN angiopoietin-2 (ANG-2)	ANGP2_HUMAN
+			
+DRUG0162	DRUGNAME	Avdoralimab	
+DRUG0162	DRUGTYPE	Monoclonal antibody	
+DRUG0162	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0162	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0162	TARGNAME	HUMAN C5a receptor (C5aR)	C5AR1_HUMAN
+			
+DRUG0164	DRUGNAME	Leronlimab	
+DRUG0164	DRUGTYPE	Monoclonal antibody	
+DRUG0164	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0164	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0164	TARGNAME	HUMAN C-C chemokine receptor 5 (CCR5)	CCR5_HUMAN
+			
+DRUG0226	DRUGNAME	Eculizumab	
+DRUG0226	DRUGTYPE	Monoclonal antibody	
+DRUG0226	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0226	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0226	TARGNAME	HUMAN complement C5 protein (C5)	CO5_HUMAN
+DRUG0226	HIGHSTAT	Approved	
+DRUG0226	HIGHDISE	Neuromyelitis optica	
+			
+DRUG0229	DRUGNAME	Otilimab	
+DRUG0229	DRUGTYPE	Monoclonal antibody	
+DRUG0229	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0229	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0229	TARGNAME	HUMAN colony-stimulating factor (GM-CSF)	CSF2_HUMAN
+DRUG0229	PCHEMCID	SID: 381127828	
+DRUG0229	HIGHSTAT	Phase 3	
+DRUG0229	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0246	DRUGNAME	Sirukumab	
+DRUG0246	DRUGTYPE	Monoclonal antibody	
+DRUG0246	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0246	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0246	TARGNAME	HUMAN interleukin 6 (IL6)	IL6_HUMAN
+DRUG0246	PCHEMCID	SID: 135626800	
+DRUG0246	HIGHSTAT	Phase 3	
+DRUG0246	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0247	DRUGNAME	Clazakizumab	
+DRUG0247	DRUGTYPE	Monoclonal antibody	
+DRUG0247	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0247	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0247	TARGNAME	HUMAN interleukin 6 (IL6)	IL6_HUMAN
+DRUG0247	PCHEMCID	SID: 160671637	
+			
+DRUG0159	DRUGNAME	BMS-986253	
+DRUG0159	DRUGTYPE	Monoclonal antibody	
+DRUG0159	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0159	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0159	TARGNAME	HUMAN interleukin 8 (IL8)	IL8_HUMAN
+DRUG0159	PCHEMCID	SID: 385157372	
+			
+DRUG0153	DRUGNAME	Meplazumab	
+DRUG0153	DRUGTYPE	Monoclonal antibody	
+DRUG0153	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0153	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+DRUG0153	TARGNAME	HUMAN basigin (BSG)	BASI_HUMAN
+			
+DRUG0228	DRUGNAME	TJ003234	
+DRUG0228	DRUGTYPE	Monoclonal antibody	
+DRUG0228	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0228	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+DRUG0228	TARGNAME	HUMAN colony-stimulating factor (GM-CSF)	CSF2_HUMAN
+			
+DRUG0166	DRUGNAME	rhACE2	
+DRUG0166	DRUGTYPE	Protein/peptide drug	
+DRUG0166	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0166	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0166	TARGNAME	HUMAN angiotensin-converting enzyme 2 (ACE2)	ACE2_HUMAN
+			
+DRUG0157	DRUGNAME	PUL-042	
+DRUG0157	DRUGTYPE	Protein/peptide drug	
+DRUG0157	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0157	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0157	TARGNAME	HUMAN toll-like receptor 2 (TLR2)	TLR2_HUMAN
+DRUG0157	TARGNAME	HUMAN toll-like receptor 6 (TLR6)	TLR6_HUMAN
+DRUG0157	TARGNAME	HUMAN toll-like receptor 9 (TLR9)	TLR9_HUMAN
+			
+DRUG0218	DRUGNAME	Lopinavir + ritonavir + oseltamivir	
+DRUG0218	DRUGTYPE	Combination drug	
+DRUG0218	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0218	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0218	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0219	DRUGNAME	Lopinavir + ritonavir + favipiravir	
+DRUG0219	DRUGTYPE	Combination drug	
+DRUG0219	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0219	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0219	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0220	DRUGNAME	Lopinavir + ritonavir	
+DRUG0220	DRUGTYPE	Combination drug	
+DRUG0220	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0220	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0220	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+DRUG0220	PCHEMCID	CID: 11979606	
+DRUG0220	HIGHSTAT	Approved	
+DRUG0220	HIGHDISE	Human immunodeficiency virus infection	
+			
+DRUG0221	DRUGNAME	Darunavir + cobicistat	
+DRUG0221	DRUGTYPE	Combination drug	
+DRUG0221	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0221	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0221	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0222	DRUGNAME	ASC09 + ritonavir + oseltamivir	
+DRUG0222	DRUGTYPE	Combination drug	
+DRUG0222	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0222	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0222	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0217	DRUGNAME	Lopinavir + ritonavir + ribavirin + interferon beta-1b	
+DRUG0217	DRUGTYPE	Combination drug	
+DRUG0217	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0217	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0217	TARGNAME	COVID-19 RNA-directed RNA polymerase (RdRp)	R1AB_SARS2 (RdRp)
+DRUG0217	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0215	DRUGNAME	Lopinavir + ritonavir + interferon apha + traditional Chinese Medicines granules	
+DRUG0215	DRUGTYPE	Combination drug	
+DRUG0215	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0215	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0215	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0216	DRUGNAME	ASC09 + ritonavir	
+DRUG0216	DRUGTYPE	Combination drug	
+DRUG0216	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0216	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0216	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0224	DRUGNAME	Lopinavir + ritonavir + interferon alpha	
+DRUG0224	DRUGTYPE	Combination drug	
+DRUG0224	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0224	DRUGSTAT	Preclinical Drug	
+DRUG0224	TARGNAME	COVID-19 3C-like protease (3CLpro)	R1AB_SARS2 (3CLpro)
+			
+DRUG0192	DRUGNAME	Hydroxychloroquine	
+DRUG0192	DRUGTYPE	Small molecular drug	
+DRUG0192	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0192	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0192	TARGNAME	HUMAN toll-like receptor 7/9 signalling pathways (TLR7/9 pathway)	N.A.
+DRUG0192	TARGNAME	HUMAN pH-dependent viral fusion/replication (pH-DVF/R)	N.A.
+DRUG0192	TARGNAME	HUMAN glycosylation of host receptor (GHR)	N.A.
+DRUG0192	PCHEMCID	CID: 3652	
+DRUG0192	HIGHSTAT	Approved	
+DRUG0192	HIGHDISE	Malaria	
+			
+DRUG0199	DRUGNAME	Chlorpromazine	
+DRUG0199	DRUGTYPE	Small molecular drug	
+DRUG0199	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0199	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0199	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0199	PCHEMCID	CID: 2726	
+DRUG0199	HIGHSTAT	Withdrawn from market	
+DRUG0199	HIGHDISE	Schizophrenia	
+			
+DRUG0010	DRUGNAME	Chloroquine	
+DRUG0010	DRUGTYPE	Small molecular drug	
+DRUG0010	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0010	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0010	TARGNAME	HUMAN pH-dependent viral fusion/replication (pH-DVF/R)	N.A.
+DRUG0010	TARGNAME	HUMAN glycosylation of host receptor (GHR)	N.A.
+DRUG0010	PCHEMCID	CID: 2719	
+DRUG0010	HIGHSTAT	Withdrawn from market	
+DRUG0010	HIGHDISE	Malaria	
+			
+DRUG0158	DRUGNAME	Atorvastatin	
+DRUG0158	DRUGTYPE	Small molecular drug	
+DRUG0158	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0158	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0158	TARGNAME	HUMAN MYD88-NF-kappa-B proinflammatory pathway (MYD88-NFKB pathway)	N.A.
+DRUG0158	PCHEMCID	CID: 60823	
+DRUG0158	HIGHSTAT	Approved	
+DRUG0158	HIGHDISE	Hyperlipidemia	
+			
+DRUG0193	DRUGNAME	Oseltamivir + hydroxychloroquine	
+DRUG0193	DRUGTYPE	Combination drug	
+DRUG0193	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0193	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0193	TARGNAME	HUMAN toll-like receptor 7/9 signalling pathways (TLR7/9 pathway)	N.A.
+DRUG0193	TARGNAME	HUMAN pH-dependent viral fusion/replication (pH-DVF/R)	N.A.
+DRUG0193	TARGNAME	HUMAN glycosylation of host receptor (GHR)	N.A.
+			
+DRUG0194	DRUGNAME	Darunavir + ritonavir + oseltamivir + hydroxychloroquine	
+DRUG0194	DRUGTYPE	Combination drug	
+DRUG0194	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0194	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0194	TARGNAME	HUMAN toll-like receptor 7/9 signalling pathways (TLR7/9 pathway)	N.A.
+DRUG0194	TARGNAME	HUMAN pH-dependent viral fusion/replication (pH-DVF/R)	N.A.
+DRUG0194	TARGNAME	HUMAN glycosylation of host receptor (GHR)	N.A.
+			
+DRUG0195	DRUGNAME	Darunavir + ritonavir + favipiravir + hydroxychloroquine	
+DRUG0195	DRUGTYPE	Combination drug	
+DRUG0195	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0195	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0195	TARGNAME	HUMAN toll-like receptor 7/9 signalling pathways (TLR7/9 pathway)	N.A.
+DRUG0195	TARGNAME	HUMAN pH-dependent viral fusion/replication (pH-DVF/R)	N.A.
+DRUG0195	TARGNAME	HUMAN glycosylation of host receptor (GHR)	N.A.
+			
+DRUG0196	DRUGNAME	Azithromycin + hydroxychloroquine	
+DRUG0196	DRUGTYPE	Combination drug	
+DRUG0196	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0196	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0196	TARGNAME	HUMAN toll-like receptor 7/9 signalling pathways (TLR7/9 pathway)	N.A.
+DRUG0196	TARGNAME	HUMAN pH-dependent viral fusion/replication (pH-DVF/R)	N.A.
+DRUG0196	TARGNAME	HUMAN glycosylation of host receptor (GHR)	N.A.
+			
+DRUG0172	DRUGNAME	Nafamostat	
+DRUG0172	DRUGTYPE	Small molecular drug	
+DRUG0172	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0172	DRUGSTAT	Preclinical Drug	
+DRUG0172	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+DRUG0172	PCHEMCID	CID: 4413	
+			
+DRUG0302	DRUGNAME	PMID26868298-compound-5705213	
+DRUG0302	DRUGTYPE	Small molecular drug	
+DRUG0302	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0302	DRUGSTAT	Preclinical Drug	
+DRUG0302	TARGNAME	HUMAN cathepsin L (CTSL)	CATL1_HUMAN
+			
+DRUG0303	DRUGNAME	K11777	
+DRUG0303	DRUGTYPE	Small molecular drug	
+DRUG0303	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0303	DRUGSTAT	Preclinical Drug	
+DRUG0303	TARGNAME	HUMAN cathepsin L (CTSL)	CATL1_HUMAN
+			
+DRUG0301	DRUGNAME	E-64D	
+DRUG0301	DRUGTYPE	Small molecular drug	
+DRUG0301	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0301	DRUGSTAT	Preclinical Drug	
+DRUG0301	TARGNAME	HUMAN cathepsin L (CTSL)	CATL1_HUMAN
+DRUG0301	PCHEMCID	CID: 65663	
+			
+DRUG0187	DRUGNAME	FA-613	
+DRUG0187	DRUGTYPE	Small molecular drug	
+DRUG0187	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0187	DRUGSTAT	Preclinical Drug	
+DRUG0187	TARGNAME	HUMAN dihydroorotate dehydrogenase (DHODH)	PYRD_HUMAN
+			
+DRUG0289	DRUGNAME	PMID26048809-compound2	
+DRUG0289	DRUGTYPE	Small molecular drug	
+DRUG0289	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0289	DRUGSTAT	Preclinical Drug	
+DRUG0289	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+			
+DRUG0232	DRUGNAME	Galidesivir	
+DRUG0232	DRUGTYPE	Small molecular drug	
+DRUG0232	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0232	DRUGSTAT	Preclinical Drug	
+DRUG0232	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+DRUG0232	PCHEMCID	CID: 69211190	
+			
+DRUG0290	DRUGNAME	PMID31244113-compound-2c	
+DRUG0290	DRUGTYPE	Small molecular drug	
+DRUG0290	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0290	DRUGSTAT	Preclinical Drug	
+DRUG0290	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+			
+DRUG0271	DRUGNAME	Thioguanine	
+DRUG0271	DRUGTYPE	Small molecular drug	
+DRUG0271	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0271	DRUGSTAT	Preclinical Drug	
+DRUG0271	TARGNAME	MERS-CoV papain-like proteinase (PL-PRO)	R1AB_CVEMC (PL-PRO)
+DRUG0271	PCHEMCID	CID: 2723601	
+DRUG0271	HIGHSTAT	Approved	
+DRUG0271	HIGHDISE	Acute lymphocytic leukaemia	
+			
+DRUG0272	DRUGNAME	Mercaptopurine	
+DRUG0272	DRUGTYPE	Small molecular drug	
+DRUG0272	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0272	DRUGSTAT	Preclinical Drug	
+DRUG0272	TARGNAME	MERS-CoV papain-like proteinase (PL-PRO)	R1AB_CVEMC (PL-PRO)
+DRUG0272	PCHEMCID	CID: 667490	
+DRUG0272	HIGHSTAT	Approved	
+DRUG0272	HIGHDISE	Acute lymphocytic leukaemia	
+			
+DRUG0273	DRUGNAME	PMID30940566-compound-6	
+DRUG0273	DRUGTYPE	Small molecular drug	
+DRUG0273	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0273	DRUGSTAT	Preclinical Drug	
+DRUG0273	TARGNAME	MERS-CoV papain-like proteinase (PL-PRO)	R1AB_CVEMC (PL-PRO)
+			
+DRUG0283	DRUGNAME	SSYA10-001	
+DRUG0283	DRUGTYPE	Small molecular drug	
+DRUG0283	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0283	DRUGSTAT	Preclinical Drug	
+DRUG0283	TARGNAME	MERS-CoV helicase (Hel)	R1AB_CVEMC (Hel)
+			
+DRUG0284	DRUGNAME	PMID31955138-compound-16	
+DRUG0284	DRUGTYPE	Small molecular drug	
+DRUG0284	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0284	DRUGSTAT	Preclinical Drug	
+DRUG0284	TARGNAME	MERS-CoV helicase (Hel)	R1AB_CVEMC (Hel)
+			
+DRUG0176	DRUGNAME	PMID26868298-compound-N3	
+DRUG0176	DRUGTYPE	Small molecular drug	
+DRUG0176	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0176	DRUGSTAT	Preclinical Drug	
+DRUG0176	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0177	DRUGNAME	GRL-001	
+DRUG0177	DRUGTYPE	Small molecular drug	
+DRUG0177	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0177	DRUGSTAT	Preclinical Drug	
+DRUG0177	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0178	DRUGNAME	Lopinavir	
+DRUG0178	DRUGTYPE	Small molecular drug	
+DRUG0178	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0178	DRUGSTAT	Preclinical Drug	
+DRUG0178	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+DRUG0178	PCHEMCID	CID: 92727	
+DRUG0178	HIGHSTAT	Approved	
+DRUG0178	HIGHDISE	Human immunodeficiency virus infection	
+			
+DRUG0179	DRUGNAME	GC376	
+DRUG0179	DRUGTYPE	Small molecular drug	
+DRUG0179	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0179	DRUGSTAT	Preclinical Drug	
+DRUG0179	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+DRUG0179	PCHEMCID	CID: 71481119	
+			
+DRUG0180	DRUGNAME	PMID27240464-compound-3f	
+DRUG0180	DRUGTYPE	Small molecular drug	
+DRUG0180	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0180	DRUGSTAT	Preclinical Drug	
+DRUG0180	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0181	DRUGNAME	PMID28216367-compound-6d	
+DRUG0181	DRUGTYPE	Small molecular drug	
+DRUG0181	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0181	DRUGSTAT	Preclinical Drug	
+DRUG0181	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0182	DRUGNAME	GC813	
+DRUG0182	DRUGTYPE	Small molecular drug	
+DRUG0182	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0182	DRUGSTAT	Preclinical Drug	
+DRUG0182	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0268	DRUGNAME	Acocantherin	
+DRUG0268	DRUGTYPE	Small molecular drug	
+DRUG0268	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0268	DRUGSTAT	Investigative Agent	
+DRUG0268	TARGNAME	HUMAN sodium pump subunit alpha-1 (ATP1A1)	AT1A1_HUMAN
+DRUG0268	PCHEMCID	CID: 439501	
+			
+DRUG0125	DRUGNAME	Imatinib	
+DRUG0125	DRUGTYPE	Small molecular drug	
+DRUG0125	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0125	DRUGSTAT	Investigative Agent	
+DRUG0125	TARGNAME	HUMAN fusion protein Bcr-Abl (Bcr-Abl)	BCR_HUMAN-ABL1_HUMAN
+DRUG0125	PCHEMCID	CID: 5291	
+DRUG0125	HIGHSTAT	Approved	
+DRUG0125	HIGHDISE	Chronic myeloid leukaemia	
+			
+DRUG0267	DRUGNAME	Dasatinib	
+DRUG0267	DRUGTYPE	Small molecular drug	
+DRUG0267	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0267	DRUGSTAT	Investigative Agent	
+DRUG0267	TARGNAME	HUMAN fusion protein Bcr-Abl (Bcr-Abl)	BCR_HUMAN-ABL1_HUMAN
+DRUG0267	PCHEMCID	CID: 3062316	
+DRUG0267	HIGHSTAT	Approved	
+DRUG0267	HIGHDISE	Chronic myeloid leukaemia	
+			
+DRUG0256	DRUGNAME	Silvestrol	
+DRUG0256	DRUGTYPE	Small molecular drug	
+DRUG0256	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0256	DRUGSTAT	Investigative Agent	
+DRUG0256	TARGNAME	HUMAN eukaryotic initiation factor-4A (eIF4A)	IF4A1_HUMAN; IF4A2_HUMAN; IF4A3_HUMAN
+DRUG0256	PCHEMCID	CID: 11787114	
+			
+DRUG0266	DRUGNAME	Trametinib	
+DRUG0266	DRUGTYPE	Small molecular drug	
+DRUG0266	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0266	DRUGSTAT	Investigative Agent	
+DRUG0266	TARGNAME	HUMAN ERK activator kinase 1 (MEK1)	MP2K1_HUMAN
+DRUG0266	TARGNAME	HUMAN ERK activator kinase 2 (MEK2)	MP2K2_HUMAN
+DRUG0266	PCHEMCID	CID: 11707110	
+DRUG0266	HIGHSTAT	Approved	
+DRUG0266	HIGHDISE	Metastatic melanoma	
+			
+DRUG0265	DRUGNAME	Selumetinib	
+DRUG0265	DRUGTYPE	Small molecular drug	
+DRUG0265	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0265	DRUGSTAT	Investigative Agent	
+DRUG0265	TARGNAME	HUMAN ERK activator kinase 1 (MEK1)	MP2K1_HUMAN
+DRUG0265	TARGNAME	HUMAN ERK activator kinase 2 (MEK2)	MP2K2_HUMAN
+DRUG0265	PCHEMCID	CID: 10127622	
+DRUG0265	HIGHSTAT	Approved	
+DRUG0265	HIGHDISE	Neurofibromatosis type 1	
+			
+DRUG0167	DRUGNAME	Rapamycin	
+DRUG0167	DRUGTYPE	Small molecular drug	
+DRUG0167	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0167	DRUGSTAT	Investigative Agent	
+DRUG0167	TARGNAME	HUMAN mammalian target of rapamycin (mTOR)	MTOR_HUMAN
+DRUG0167	PCHEMCID	CID: 6436030	
+DRUG0167	HIGHSTAT	Approved	
+DRUG0167	HIGHDISE	Lymphangioleiomyomatosis	
+			
+DRUG0168	DRUGNAME	Everolimus	
+DRUG0168	DRUGTYPE	Small molecular drug	
+DRUG0168	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0168	DRUGSTAT	Investigative Agent	
+DRUG0168	TARGNAME	HUMAN mammalian target of rapamycin (mTOR)	MTOR_HUMAN
+DRUG0168	PCHEMCID	CID: 6442177	
+DRUG0168	HIGHSTAT	Approved	
+DRUG0168	HIGHDISE	Advanced/metastatic breast cancer	
+			
+DRUG0152	DRUGNAME	Ribavirin	
+DRUG0152	DRUGTYPE	Small molecular drug	
+DRUG0152	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0152	DRUGSTAT	Investigative Agent	
+DRUG0152	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+DRUG0152	PCHEMCID	CID: 37542	
+DRUG0152	HIGHSTAT	Approved	
+DRUG0152	HIGHDISE	Hepatitis C virus infection	
+			
+DRUG0285	DRUGNAME	Amarylline	
+DRUG0285	DRUGTYPE	Small molecular drug	
+DRUG0285	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0285	DRUGSTAT	Investigative Agent	
+DRUG0285	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+DRUG0285	PCHEMCID	CID: 72378	
+			
+DRUG0233	DRUGNAME	Remdesivir	
+DRUG0233	DRUGTYPE	Small molecular drug	
+DRUG0233	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0233	DRUGSTAT	Investigative Agent	
+DRUG0233	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+DRUG0233	PCHEMCID	CID: 121304016	
+			
+DRUG0270	DRUGNAME	Mycophenolic acid	
+DRUG0270	DRUGTYPE	Small molecular drug	
+DRUG0270	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0270	DRUGSTAT	Investigative Agent	
+DRUG0270	TARGNAME	MERS-CoV papain-like proteinase (PL-PRO)	R1AB_CVEMC (PL-PRO)
+DRUG0270	PCHEMCID	CID: 446541	
+DRUG0270	HIGHSTAT	Approved	
+DRUG0270	HIGHDISE	Crohn disease	
+			
+DRUG0213	DRUGNAME	Disulfiram	
+DRUG0213	DRUGTYPE	Small molecular drug	
+DRUG0213	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0213	DRUGSTAT	Investigative Agent	
+DRUG0213	TARGNAME	MERS-CoV papain-like proteinase (PL-PRO)	R1AB_CVEMC (PL-PRO)
+DRUG0213	PCHEMCID	CID: 3117	
+DRUG0213	HIGHSTAT	Approved	
+DRUG0213	HIGHDISE	Alcohol dependence	
+			
+DRUG0154	DRUGNAME	Polyinosinic:polycytidylic acid	
+DRUG0154	DRUGTYPE	Small molecular drug	
+DRUG0154	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0154	DRUGSTAT	Investigative Agent	
+DRUG0154	TARGNAME	HUMAN toll-like receptor 3 (TLR3)	TLR3_HUMAN
+DRUG0154	PCHEMCID	CID: 135478809	
+			
+DRUG0171	DRUGNAME	Camostat mesylate	
+DRUG0171	DRUGTYPE	Small molecular drug	
+DRUG0171	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0171	DRUGSTAT	Investigative Agent	
+DRUG0171	TARGNAME	HUMAN transmembrane protease serine 2 (TMPRSS2)	TMPS2_HUMAN
+DRUG0171	PCHEMCID	CID: 5284360	
+			
+DRUG0244	DRUGNAME	YS110 mAb clone	
+DRUG0244	DRUGTYPE	Monoclonal antibody	
+DRUG0244	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0244	DRUGSTAT	Investigative Agent	
+DRUG0244	TARGNAME	HUMAN dipeptidyl peptidase 4 (DPP-4)	DPP4_HUMAN
+			
+DRUG0274	DRUGNAME	REGN 3048	
+DRUG0274	DRUGTYPE	Monoclonal antibody	
+DRUG0274	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0274	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+DRUG0274	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0275	DRUGNAME	REGN 3051	
+DRUG0275	DRUGTYPE	Monoclonal antibody	
+DRUG0275	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0275	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+DRUG0275	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0297	DRUGNAME	HR2P-M2 peptide	
+DRUG0297	DRUGTYPE	Protein/peptide drug	
+DRUG0297	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0297	DRUGSTAT	Preclinical Drug	
+DRUG0297	TARGNAME	MERS-CoV spike glycoprotein S2 subunit (S S2)	A0A140AYZ5_9BETC (S2)
+			
+DRUG0298	DRUGNAME	HR2P peptide	
+DRUG0298	DRUGTYPE	Protein/peptide drug	
+DRUG0298	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0298	DRUGSTAT	Preclinical Drug	
+DRUG0298	TARGNAME	MERS-CoV spike glycoprotein S2 subunit (S S2)	A0A140AYZ5_9BETC (S2)
+			
+DRUG0299	DRUGNAME	HR1P peptide	
+DRUG0299	DRUGTYPE	Protein/peptide drug	
+DRUG0299	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0299	DRUGSTAT	Preclinical Drug	
+DRUG0299	TARGNAME	MERS-CoV spike glycoprotein S2 subunit (S S2)	A0A140AYZ5_9BETC (S2)
+			
+DRUG0300	DRUGNAME	HR2P-M1 peptide	
+DRUG0300	DRUGTYPE	Protein/peptide drug	
+DRUG0300	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0300	DRUGSTAT	Preclinical Drug	
+DRUG0300	TARGNAME	MERS-CoV spike glycoprotein S2 subunit (S S2)	A0A140AYZ5_9BETC (S2)
+			
+DRUG0276	DRUGNAME	PMID26911565-peptide-P9	
+DRUG0276	DRUGTYPE	Protein/peptide drug	
+DRUG0276	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0276	DRUGSTAT	Preclinical Drug	
+DRUG0276	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0277	DRUGNAME	MERS-five-helix bundle	
+DRUG0277	DRUGTYPE	Protein/peptide drug	
+DRUG0277	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0277	DRUGSTAT	Preclinical Drug	
+DRUG0277	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0278	DRUGNAME	Peptide P21S10	
+DRUG0278	DRUGTYPE	Protein/peptide drug	
+DRUG0278	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0278	DRUGSTAT	Preclinical Drug	
+DRUG0278	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0279	DRUGNAME	Alpha-Helical lipopeptides LLS	
+DRUG0279	DRUGTYPE	Protein/peptide drug	
+DRUG0279	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0279	DRUGSTAT	Preclinical Drug	
+DRUG0279	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0280	DRUGNAME	Alpha-Helical lipopeptides IIS	
+DRUG0280	DRUGTYPE	Protein/peptide drug	
+DRUG0280	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0280	DRUGSTAT	Preclinical Drug	
+DRUG0280	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0281	DRUGNAME	Alpha-Helical lipopeptides IIK	
+DRUG0281	DRUGTYPE	Protein/peptide drug	
+DRUG0281	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0281	DRUGSTAT	Preclinical Drug	
+DRUG0281	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0282	DRUGNAME	Alpha-Helical lipopeptides FFS	
+DRUG0282	DRUGTYPE	Protein/peptide drug	
+DRUG0282	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0282	DRUGSTAT	Preclinical Drug	
+DRUG0282	TARGNAME	MERS-CoV spike glycoprotein (S)	A0A140AYZ5_9BETC
+			
+DRUG0304	DRUGNAME	Dec-RVKR-CMK	
+DRUG0304	DRUGTYPE	Protein/peptide drug	
+DRUG0304	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0304	DRUGSTAT	Preclinical Drug	
+DRUG0304	TARGNAME	HUMAN dibasic-processing enzyme (Furin)	FURIN_HUMAN
+DRUG0304	PCHEMCID	CID: 9962075	
+			
+DRUG0250	DRUGNAME	Fusion peptide EK1	
+DRUG0250	DRUGTYPE	Protein/peptide drug	
+DRUG0250	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0250	DRUGSTAT	Investigative Agent	
+DRUG0250	TARGNAME	MERS-CoV spike glycoprotein S2' HR1 region (S S2'HR1)	A0A140AYZ5_9BETC (S2'HR1)
+			
+DRUG0264	DRUGNAME	Alisporivir	
+DRUG0264	DRUGTYPE	Protein/peptide drug	
+DRUG0264	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0264	DRUGSTAT	Investigative Agent	
+DRUG0264	TARGNAME	HUMAN cyclophilin A (CYPA)	PPIA_HUMAN
+DRUG0264	PCHEMCID	CID: 11513676	
+DRUG0264	HIGHSTAT	Phase 3	
+DRUG0264	HIGHDISE	Hepatitis C virus infection	
+			
+DRUG0263	DRUGNAME	Ciclosporin	
+DRUG0263	DRUGTYPE	Protein/peptide drug	
+DRUG0263	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0263	DRUGSTAT	Investigative Agent	
+DRUG0263	TARGNAME	HUMAN cyclophilin D (CYP3)	PPIF_HUMAN
+DRUG0263	PCHEMCID	CID: 24883466	
+DRUG0263	HIGHSTAT	Approved	
+DRUG0263	HIGHDISE	Graft-versus-host disease	
+			
+DRUG0173	DRUGNAME	Lopinavir + ritonavir + interferon beta-1b	
+DRUG0173	DRUGTYPE	Combination drug	
+DRUG0173	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0173	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0173	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0286	DRUGNAME	Ribavirin + interferon alfa-2a	
+DRUG0286	DRUGTYPE	Combination drug	
+DRUG0286	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0286	DRUGSTAT	Investigative Agent	
+DRUG0286	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+			
+DRUG0287	DRUGNAME	Ribavirin + interferon alfa-2b	
+DRUG0287	DRUGTYPE	Combination drug	
+DRUG0287	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0287	DRUGSTAT	Investigative Agent	
+DRUG0287	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+			
+DRUG0288	DRUGNAME	Ribavirin + interferon beta-1a	
+DRUG0288	DRUGTYPE	Combination drug	
+DRUG0288	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0288	DRUGSTAT	Investigative Agent	
+DRUG0288	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+			
+DRUG0174	DRUGNAME	Ribavirin + lopinavir + ritonavir + interferon alfa-2a	
+DRUG0174	DRUGTYPE	Combination drug	
+DRUG0174	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0174	DRUGSTAT	Investigative Agent	
+DRUG0174	TARGNAME	MERS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVEMC (RdRp)
+DRUG0174	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+			
+DRUG0175	DRUGNAME	Lopinavir + ritonavir + interferon beta	
+DRUG0175	DRUGTYPE	Combination drug	
+DRUG0175	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0175	DRUGSTAT	Investigative Agent	
+DRUG0175	TARGNAME	MERS-CoV 3C-like proteinase (3CLpro)	R1AB_CVEMC (3CLpro)
+			
+DRUG0197	DRUGNAME	Triflupromazine	
+DRUG0197	DRUGTYPE	Small molecular drug	
+DRUG0197	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0197	DRUGSTAT	Investigative Agent	
+DRUG0197	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0197	PCHEMCID	CID: 5568	
+DRUG0197	HIGHSTAT	Withdrawn from market	
+DRUG0197	HIGHDISE	Schizophrenia	
+			
+DRUG0200	DRUGNAME	Promethazine	
+DRUG0200	DRUGTYPE	Small molecular drug	
+DRUG0200	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0200	DRUGSTAT	Investigative Agent	
+DRUG0200	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0200	PCHEMCID	CID: 4927	
+			
+DRUG0198	DRUGNAME	Fluphenazine	
+DRUG0198	DRUGTYPE	Small molecular drug	
+DRUG0198	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0198	DRUGSTAT	Investigative Agent	
+DRUG0198	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0198	PCHEMCID	CID: 3372	
+			
+DRUG0199	DRUGNAME	Chlorpromazine	
+DRUG0199	DRUGTYPE	Small molecular drug	
+DRUG0199	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0199	DRUGSTAT	Investigative Agent	
+DRUG0199	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0199	PCHEMCID	CID: 2726	
+DRUG0199	HIGHSTAT	Withdrawn from market	
+DRUG0199	HIGHDISE	Schizophrenia	
+			
+DRUG0201	DRUGNAME	Thiethylperazine	
+DRUG0201	DRUGTYPE	Small molecular drug	
+DRUG0201	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0201	DRUGSTAT	Investigative Agent	
+DRUG0201	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0201	PCHEMCID	CID: 5440	
+			
+DRUG0303	DRUGNAME	K11777	
+DRUG0303	DRUGTYPE	Small molecular drug	
+DRUG0303	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0303	DRUGSTAT	Preclinical Drug	
+DRUG0303	TARGNAME	HUMAN cathepsin L (CTSL)	CATL1_HUMAN
+			
+DRUG0301	DRUGNAME	E-64D	
+DRUG0301	DRUGTYPE	Small molecular drug	
+DRUG0301	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0301	DRUGSTAT	Preclinical Drug	
+DRUG0301	TARGNAME	HUMAN cathepsin L (CTSL)	CATL1_HUMAN
+DRUG0301	PCHEMCID	CID: 65663	
+			
+DRUG0187	DRUGNAME	FA-613	
+DRUG0187	DRUGTYPE	Small molecular drug	
+DRUG0187	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0187	DRUGSTAT	Preclinical Drug	
+DRUG0187	TARGNAME	HUMAN dihydroorotate dehydrogenase (DHODH)	PYRD_HUMAN
+			
+DRUG0232	DRUGNAME	Galidesivir	
+DRUG0232	DRUGTYPE	Small molecular drug	
+DRUG0232	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0232	DRUGSTAT	Preclinical Drug	
+DRUG0232	TARGNAME	SARS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVHSA (RdRp)
+DRUG0232	PCHEMCID	CID: 69211190	
+			
+DRUG0271	DRUGNAME	Thioguanine	
+DRUG0271	DRUGTYPE	Small molecular drug	
+DRUG0271	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0271	DRUGSTAT	Preclinical Drug	
+DRUG0271	TARGNAME	SARS-CoV papain-like proteinase (PL-PRO)	R1AB_CVHSA (PL-PRO)
+DRUG0271	PCHEMCID	CID: 2723601	
+DRUG0271	HIGHSTAT	Approved	
+DRUG0271	HIGHDISE	Acute lymphocytic leukaemia	
+			
+DRUG0272	DRUGNAME	Mercaptopurine	
+DRUG0272	DRUGTYPE	Small molecular drug	
+DRUG0272	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0272	DRUGSTAT	Preclinical Drug	
+DRUG0272	TARGNAME	SARS-CoV papain-like proteinase (PL-PRO)	R1AB_CVHSA (PL-PRO)
+DRUG0272	PCHEMCID	CID: 667490	
+DRUG0272	HIGHSTAT	Approved	
+DRUG0272	HIGHDISE	Acute lymphocytic leukaemia	
+			
+DRUG0302	DRUGNAME	PMID26868298-compound-5705213	
+DRUG0302	DRUGTYPE	Small molecular drug	
+DRUG0302	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0302	DRUGSTAT	Preclinical Drug	
+DRUG0302	TARGNAME	HUMAN cathepsin L (CTSL)	CATL1_HUMAN
+			
+DRUG0290	DRUGNAME	PMID31244113-compound-2c	
+DRUG0290	DRUGTYPE	Small molecular drug	
+DRUG0290	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0290	DRUGSTAT	Preclinical Drug	
+DRUG0290	TARGNAME	SARS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVHSA (RdRp)
+			
+DRUG0296	DRUGNAME	PMID21925774-compound-5e	
+DRUG0296	DRUGTYPE	Small molecular drug	
+DRUG0296	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0296	DRUGSTAT	Preclinical Drug	
+DRUG0296	TARGNAME	SARS-CoV helicase (Hel)	R1AB_CVHSA (Hel)
+			
+DRUG0283	DRUGNAME	SSYA10-001	
+DRUG0283	DRUGTYPE	Small molecular drug	
+DRUG0283	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0283	DRUGSTAT	Preclinical Drug	
+DRUG0283	TARGNAME	SARS-CoV helicase (Hel)	R1AB_CVHSA (Hel)
+			
+DRUG0176	DRUGNAME	PMID26868298-compound-N3	
+DRUG0176	DRUGTYPE	Small molecular drug	
+DRUG0176	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0176	DRUGSTAT	Preclinical Drug	
+DRUG0176	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0177	DRUGNAME	GRL-001	
+DRUG0177	DRUGTYPE	Small molecular drug	
+DRUG0177	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0177	DRUGSTAT	Preclinical Drug	
+DRUG0177	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0178	DRUGNAME	Lopinavir	
+DRUG0178	DRUGTYPE	Small molecular drug	
+DRUG0178	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0178	DRUGSTAT	Preclinical Drug	
+DRUG0178	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+DRUG0178	PCHEMCID	CID: 92727	
+DRUG0178	HIGHSTAT	Approved	
+DRUG0178	HIGHDISE	Human immunodeficiency virus infection	
+			
+DRUG0179	DRUGNAME	GC376	
+DRUG0179	DRUGTYPE	Small molecular drug	
+DRUG0179	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0179	DRUGSTAT	Preclinical Drug	
+DRUG0179	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+DRUG0179	PCHEMCID	CID: 71481119	
+			
+DRUG0180	DRUGNAME	PMID27240464-compound-3f	
+DRUG0180	DRUGTYPE	Small molecular drug	
+DRUG0180	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0180	DRUGSTAT	Preclinical Drug	
+DRUG0180	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0181	DRUGNAME	PMID28216367-compound-6d	
+DRUG0181	DRUGTYPE	Small molecular drug	
+DRUG0181	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0181	DRUGSTAT	Preclinical Drug	
+DRUG0181	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0293	DRUGNAME	Phenylisoserine derivatives SK80	
+DRUG0293	DRUGTYPE	Small molecular drug	
+DRUG0293	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0293	DRUGSTAT	Preclinical Drug	
+DRUG0293	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0294	DRUGNAME	PMID28624700-compound-3-31	
+DRUG0294	DRUGTYPE	Small molecular drug	
+DRUG0294	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0294	DRUGSTAT	Preclinical Drug	
+DRUG0294	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0295	DRUGNAME	PMID30784880-compound-6-5	
+DRUG0295	DRUGTYPE	Small molecular drug	
+DRUG0295	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0295	DRUGSTAT	Preclinical Drug	
+DRUG0295	TARGNAME	SARS-CoV 3C-like protease (3CLpro)	R1AB_CVHSA (3CLpro)
+			
+DRUG0269	DRUGNAME	Hexamethylene amiloride	
+DRUG0269	DRUGTYPE	Small molecular drug	
+DRUG0269	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0269	DRUGSTAT	Preclinical Drug	
+DRUG0269	TARGNAME	SARS-CoV envelope small membrane protein (E)	VEMP_CVHSA
+DRUG0269	PCHEMCID	CID: 1794	
+			
+DRUG0165	DRUGNAME	N-(2-aminoethyl)-1-aziridine-ethanamine	
+DRUG0165	DRUGTYPE	Small molecular drug	
+DRUG0165	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0165	DRUGSTAT	Investigative Agent	
+DRUG0165	TARGNAME	HUMAN angiotensin-converting enzyme 2 (ACE2)	ACE2_HUMAN
+			
+DRUG0125	DRUGNAME	Imatinib	
+DRUG0125	DRUGTYPE	Small molecular drug	
+DRUG0125	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0125	DRUGSTAT	Investigative Agent	
+DRUG0125	TARGNAME	HUMAN fusion protein Bcr-Abl (Bcr-Abl)	BCR_HUMAN-ABL1_HUMAN
+DRUG0125	PCHEMCID	CID: 5291	
+DRUG0125	HIGHSTAT	Approved	
+DRUG0125	HIGHDISE	Chronic myeloid leukaemia	
+			
+DRUG0267	DRUGNAME	Dasatinib	
+DRUG0267	DRUGTYPE	Small molecular drug	
+DRUG0267	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0267	DRUGSTAT	Investigative Agent	
+DRUG0267	TARGNAME	HUMAN fusion protein Bcr-Abl (Bcr-Abl)	BCR_HUMAN-ABL1_HUMAN
+DRUG0267	PCHEMCID	CID: 3062316	
+DRUG0267	HIGHSTAT	Approved	
+DRUG0267	HIGHDISE	Chronic myeloid leukaemia	
+			
+DRUG0266	DRUGNAME	Trametinib	
+DRUG0266	DRUGTYPE	Small molecular drug	
+DRUG0266	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0266	DRUGSTAT	Investigative Agent	
+DRUG0266	TARGNAME	HUMAN ERK activator kinase 1 (MEK1)	MP2K1_HUMAN
+DRUG0266	TARGNAME	HUMAN ERK activator kinase 2 (MEK2)	MP2K2_HUMAN
+DRUG0266	PCHEMCID	CID: 11707110	
+DRUG0266	HIGHSTAT	Approved	
+DRUG0266	HIGHDISE	Metastatic melanoma	
+			
+DRUG0265	DRUGNAME	Selumetinib	
+DRUG0265	DRUGTYPE	Small molecular drug	
+DRUG0265	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0265	DRUGSTAT	Investigative Agent	
+DRUG0265	TARGNAME	HUMAN ERK activator kinase 1 (MEK1)	MP2K1_HUMAN
+DRUG0265	TARGNAME	HUMAN ERK activator kinase 2 (MEK2)	MP2K2_HUMAN
+DRUG0265	PCHEMCID	CID: 10127622	
+DRUG0265	HIGHSTAT	Approved	
+DRUG0265	HIGHDISE	Neurofibromatosis type 1	
+			
+DRUG0167	DRUGNAME	Rapamycin	
+DRUG0167	DRUGTYPE	Small molecular drug	
+DRUG0167	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0167	DRUGSTAT	Investigative Agent	
+DRUG0167	TARGNAME	HUMAN mammalian target of rapamycin (mTOR)	MTOR_HUMAN
+DRUG0167	PCHEMCID	CID: 6436030	
+DRUG0167	HIGHSTAT	Approved	
+DRUG0167	HIGHDISE	Lymphangioleiomyomatosis	
+			
+DRUG0168	DRUGNAME	Everolimus	
+DRUG0168	DRUGTYPE	Small molecular drug	
+DRUG0168	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0168	DRUGSTAT	Investigative Agent	
+DRUG0168	TARGNAME	HUMAN mammalian target of rapamycin (mTOR)	MTOR_HUMAN
+DRUG0168	PCHEMCID	CID: 6442177	
+DRUG0168	HIGHSTAT	Approved	
+DRUG0168	HIGHDISE	Advanced/metastatic breast cancer	
+			
+DRUG0152	DRUGNAME	Ribavirin	
+DRUG0152	DRUGTYPE	Small molecular drug	
+DRUG0152	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0152	DRUGSTAT	Investigative Agent	
+DRUG0152	TARGNAME	SARS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVHSA (RdRp)
+DRUG0152	PCHEMCID	CID: 37542	
+DRUG0152	HIGHSTAT	Approved	
+DRUG0152	HIGHDISE	Hepatitis C virus infection	
+			
+DRUG0233	DRUGNAME	Remdesivir	
+DRUG0233	DRUGTYPE	Small molecular drug	
+DRUG0233	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0233	DRUGSTAT	Investigative Agent	
+DRUG0233	TARGNAME	SARS-CoV RNA-directed RNA polymerase (RdRp)	R1AB_CVHSA (RdRp)
+DRUG0233	PCHEMCID	CID: 121304016	
+			
+DRUG0291	DRUGNAME	PMID20527968-compound-6577871	
+DRUG0291	DRUGTYPE	Small molecular drug	
+DRUG0291	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0291	DRUGSTAT	Investigative Agent	
+DRUG0291	TARGNAME	SARS-CoV papain-like proteinase (PL-PRO)	R1AB_CVHSA (PL-PRO)
+			
+DRUG0292	DRUGNAME	GRL-0667	
+DRUG0292	DRUGTYPE	Small molecular drug	
+DRUG0292	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0292	DRUGSTAT	Investigative Agent	
+DRUG0292	TARGNAME	SARS-CoV papain-like proteinase (PL-PRO)	R1AB_CVHSA (PL-PRO)
+DRUG0292	PCHEMCID	CID: 46174170	
+			
+DRUG0213	DRUGNAME	Disulfiram	
+DRUG0213	DRUGTYPE	Small molecular drug	
+DRUG0213	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0213	DRUGSTAT	Investigative Agent	
+DRUG0213	TARGNAME	SARS-CoV papain-like proteinase (PL-PRO)	R1AB_CVHSA (PL-PRO)
+DRUG0213	PCHEMCID	CID: 3117	
+DRUG0213	HIGHSTAT	Approved	
+DRUG0213	HIGHDISE	Alcohol dependence	
+			
+DRUG0171	DRUGNAME	Camostat mesylate	
+DRUG0171	DRUGTYPE	Small molecular drug	
+DRUG0171	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0171	DRUGSTAT	Investigative Agent	
+DRUG0171	TARGNAME	HUMAN transmembrane protease serine 2 (TMPRSS2)	TMPS2_HUMAN
+DRUG0171	PCHEMCID	CID: 5284360	
+			
+DRUG0305	DRUGNAME	Griffithsin	
+DRUG0305	DRUGTYPE	Protein/peptide drug	
+DRUG0305	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0305	DRUGSTAT	Preclinical Drug	
+DRUG0305	TARGNAME	SARS-CoV spike glycoprotein (S)	SPIKE_CVHSA
+DRUG0305	HIGHSTAT	Phase 1	
+DRUG0305	HIGHDISE	Human immunodeficiency virus infection	
+			
+DRUG0276	DRUGNAME	PMID26911565-peptide-P9	
+DRUG0276	DRUGTYPE	Protein/peptide drug	
+DRUG0276	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0276	DRUGSTAT	Preclinical Drug	
+DRUG0276	TARGNAME	SARS-CoV spike glycoprotein (S)	SPIKE_CVHSA
+			
+DRUG0264	DRUGNAME	Alisporivir	
+DRUG0264	DRUGTYPE	Protein/peptide drug	
+DRUG0264	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0264	DRUGSTAT	Investigative Agent	
+DRUG0264	TARGNAME	HUMAN cyclophilin A (CYPA)	PPIA_HUMAN
+DRUG0264	PCHEMCID	CID: 11513676	
+DRUG0264	HIGHSTAT	Phase 3	
+DRUG0264	HIGHDISE	Hepatitis C virus infection	
+			
+DRUG0263	DRUGNAME	Ciclosporin	
+DRUG0263	DRUGTYPE	Protein/peptide drug	
+DRUG0263	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0263	DRUGSTAT	Investigative Agent	
+DRUG0263	TARGNAME	HUMAN cyclophilin D (CYP3)	PPIF_HUMAN
+DRUG0263	PCHEMCID	CID: 24883466	
+DRUG0263	HIGHSTAT	Approved	
+DRUG0263	HIGHDISE	Graft-versus-host disease	
+			
+DRUG0250	DRUGNAME	Fusion peptide EK1	
+DRUG0250	DRUGTYPE	Protein/peptide drug	
+DRUG0250	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0250	DRUGSTAT	Investigative Agent	
+DRUG0250	TARGNAME	SARS-CoV spike glycoprotein S2' HR1 region (S S2'HR1)	SPIKE_CVHSA (S2'HR1)
+			
+DRUG0197	DRUGNAME	Triflupromazine	
+DRUG0197	DRUGTYPE	Small molecular drug	
+DRUG0197	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0197	DRUGSTAT	Investigative Agent	
+DRUG0197	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0197	PCHEMCID	CID: 5568	
+DRUG0197	HIGHSTAT	Withdrawn from market	
+DRUG0197	HIGHDISE	Schizophrenia	
+			
+DRUG0200	DRUGNAME	Promethazine	
+DRUG0200	DRUGTYPE	Small molecular drug	
+DRUG0200	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0200	DRUGSTAT	Investigative Agent	
+DRUG0200	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0200	PCHEMCID	CID: 4927	
+			
+DRUG0198	DRUGNAME	Fluphenazine	
+DRUG0198	DRUGTYPE	Small molecular drug	
+DRUG0198	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0198	DRUGSTAT	Investigative Agent	
+DRUG0198	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0198	PCHEMCID	CID: 3372	
+			
+DRUG0199	DRUGNAME	Chlorpromazine	
+DRUG0199	DRUGTYPE	Small molecular drug	
+DRUG0199	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0199	DRUGSTAT	Investigative Agent	
+DRUG0199	TARGNAME	HUMAN clathrin-mediated endocytosis (RME)	N.A.
+DRUG0199	PCHEMCID	CID: 2726	
+DRUG0199	HIGHSTAT	Withdrawn from market	
+DRUG0199	HIGHDISE	Schizophrenia	
+			
+DRUG0121	DRUGNAME	Oseltamivir	
+DRUG0121	DRUGTYPE	Small molecular drug	
+DRUG0121	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0121	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0121	PCHEMCID	CID: 65028	
+DRUG0121	HIGHSTAT	Approved	
+DRUG0121	HIGHDISE	Influenza virus infection	
+			
+DRUG0122	DRUGNAME	Tradipitant	
+DRUG0122	DRUGTYPE	Small molecular drug	
+DRUG0122	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0122	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0122	PCHEMCID	CID: 9916461	
+			
+DRUG0123	DRUGNAME	Azithromycin	
+DRUG0123	DRUGTYPE	Small molecular drug	
+DRUG0123	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0123	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0123	PCHEMCID	CID: 447043	
+DRUG0123	HIGHSTAT	Approved	
+DRUG0123	HIGHDISE	Bronchitis	
+			
+DRUG0124	DRUGNAME	Methylprednisolone	
+DRUG0124	DRUGTYPE	Small molecular drug	
+DRUG0124	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0124	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0124	PCHEMCID	CID: 6741	
+DRUG0124	HIGHSTAT	Approved	
+DRUG0124	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0125	DRUGNAME	Imatinib	
+DRUG0125	DRUGTYPE	Small molecular drug	
+DRUG0125	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0125	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0125	PCHEMCID	CID: 5291	
+DRUG0125	HIGHSTAT	Approved	
+DRUG0125	HIGHDISE	Chronic myeloid leukaemia	
+			
+DRUG0126	DRUGNAME	Ciclesonide	
+DRUG0126	DRUGTYPE	Small molecular drug	
+DRUG0126	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0126	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0126	PCHEMCID	CID: 6918155	
+DRUG0126	HIGHSTAT	Approved	
+DRUG0126	HIGHDISE	Asthma	
+			
+DRUG0127	DRUGNAME	Nitazoxanide	
+DRUG0127	DRUGTYPE	Small molecular drug	
+DRUG0127	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0127	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0127	PCHEMCID	CID: 41684	
+DRUG0127	HIGHSTAT	Approved	
+DRUG0127	HIGHDISE	Diarrhea	
+			
+DRUG0111	DRUGNAME	Ivermectin	
+DRUG0111	DRUGTYPE	Small molecular drug	
+DRUG0111	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0111	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0111	PCHEMCID	CID: 6321424	
+DRUG0111	HIGHSTAT	Approved	
+DRUG0111	HIGHDISE	Onchocerciasis	
+			
+DRUG0112	DRUGNAME	Ifenprodil	
+DRUG0112	DRUGTYPE	Small molecular drug	
+DRUG0112	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0112	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0112	PCHEMCID	CID: 3689	
+			
+DRUG0067	DRUGNAME	Arbidol	
+DRUG0067	DRUGTYPE	Small molecular drug	
+DRUG0067	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0067	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0067	PCHEMCID	CID: 131410	
+DRUG0067	HIGHSTAT	Phase 4	
+DRUG0067	HIGHDISE	Influenza virus infection	
+			
+DRUG0068	DRUGNAME	Thalidomide	
+DRUG0068	DRUGTYPE	Small molecular drug	
+DRUG0068	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0068	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0068	PCHEMCID	CID: 5426	
+DRUG0068	HIGHSTAT	Approved	
+DRUG0068	HIGHDISE	Multiple myeloma	
+			
+DRUG0069	DRUGNAME	N-acetylcysteine	
+DRUG0069	DRUGTYPE	Small molecular drug	
+DRUG0069	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0069	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0069	PCHEMCID	CID: 12035	
+DRUG0069	HIGHSTAT	Approved	
+DRUG0069	HIGHDISE	Cystic fibrosis	
+			
+DRUG0070	DRUGNAME	Fingolimod	
+DRUG0070	DRUGTYPE	Small molecular drug	
+DRUG0070	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0070	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0070	PCHEMCID	CID: 107970	
+DRUG0070	HIGHSTAT	Approved	
+DRUG0070	HIGHDISE	Multiple sclerosis	
+			
+DRUG0071	DRUGNAME	Carrimycin	
+DRUG0071	DRUGTYPE	Small molecular drug	
+DRUG0071	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0071	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0072	DRUGNAME	Nitric Oxide	
+DRUG0072	DRUGTYPE	Small molecular drug	
+DRUG0072	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0072	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0072	PCHEMCID	CID: 145068	
+DRUG0072	HIGHSTAT	Approved	
+DRUG0072	HIGHDISE	Hypertension	
+			
+DRUG0073	DRUGNAME	Colchicine	
+DRUG0073	DRUGTYPE	Small molecular drug	
+DRUG0073	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0073	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0073	PCHEMCID	CID: 6167	
+DRUG0073	HIGHSTAT	Approved	
+DRUG0073	HIGHDISE	Gout	
+			
+DRUG0074	DRUGNAME	Tofacitinib	
+DRUG0074	DRUGTYPE	Small molecular drug	
+DRUG0074	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0074	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0074	PCHEMCID	CID: 9926791	
+DRUG0074	HIGHSTAT	Approved	
+DRUG0074	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0075	DRUGNAME	Piclidenoson	
+DRUG0075	DRUGTYPE	Small molecular drug	
+DRUG0075	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0075	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0075	PCHEMCID	CID: 123683	
+DRUG0075	HIGHSTAT	Phase 3	
+DRUG0075	HIGHDISE	Keratoconjunctivitis Sicca	
+			
+DRUG0076	DRUGNAME	Defibrotide	
+DRUG0076	DRUGTYPE	Small molecular drug	
+DRUG0076	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0076	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0076	PCHEMCID	CID: 135565962	
+DRUG0076	HIGHSTAT	Approved	
+DRUG0076	HIGHDISE	Hepatic Veno-Occlusive Disease	
+			
+DRUG0077	DRUGNAME	Nintedanib	
+DRUG0077	DRUGTYPE	Small molecular drug	
+DRUG0077	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0077	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0077	PCHEMCID	CID: 135423438	
+DRUG0077	HIGHSTAT	Approved	
+DRUG0077	HIGHDISE	Idiopathic pulmonary fibrosis	
+			
+DRUG0078	DRUGNAME	Fluvoxamine	
+DRUG0078	DRUGTYPE	Small molecular drug	
+DRUG0078	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0078	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0078	PCHEMCID	CID: 5324346	
+DRUG0078	HIGHSTAT	Approved	
+DRUG0078	HIGHDISE	Obsessive-compulsive disorder	
+			
+DRUG0079	DRUGNAME	CM4620	
+DRUG0079	DRUGTYPE	Small molecular drug	
+DRUG0079	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0079	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0079	PCHEMCID	CID: 122507647	
+			
+DRUG0013	DRUGNAME	Mefloquine	
+DRUG0013	DRUGTYPE	Small molecular drug	
+DRUG0013	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0013	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0013	PCHEMCID	CID: 40692	
+DRUG0013	HIGHSTAT	Approved	
+DRUG0013	HIGHDISE	Malaria	
+			
+DRUG0080	DRUGNAME	Clevudine	
+DRUG0080	DRUGTYPE	Small molecular drug	
+DRUG0080	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0080	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0080	PCHEMCID	CID: 73115	
+DRUG0080	HIGHSTAT	Phase 4	
+DRUG0080	HIGHDISE	Hepatitis B	
+			
+DRUG0081	DRUGNAME	Triiodothyronine	
+DRUG0081	DRUGTYPE	Small molecular drug	
+DRUG0081	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0081	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0081	PCHEMCID	CID: 5920	
+DRUG0081	HIGHSTAT	Approved	
+DRUG0081	HIGHDISE	Euthyroid goiter	
+			
+DRUG0082	DRUGNAME	Selinexor	
+DRUG0082	DRUGTYPE	Small molecular drug	
+DRUG0082	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0082	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0082	PCHEMCID	CID: 71481097	
+DRUG0082	HIGHSTAT	Approved	
+DRUG0082	HIGHDISE	Multiple myeloma	
+			
+DRUG0083	DRUGNAME	Etoposide	
+DRUG0083	DRUGTYPE	Small molecular drug	
+DRUG0083	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0083	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0083	PCHEMCID	CID: 36462	
+DRUG0083	HIGHSTAT	Approved	
+DRUG0083	HIGHDISE	Testicular neoplasms	
+			
+DRUG0084	DRUGNAME	AT-001	
+DRUG0084	DRUGTYPE	Small molecular drug	
+DRUG0084	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0084	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0084	PCHEMCID	CID: 56639723	
+			
+DRUG0085	DRUGNAME	Ketamine	
+DRUG0085	DRUGTYPE	Small molecular drug	
+DRUG0085	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0085	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0085	PCHEMCID	CID: 3821	
+DRUG0085	HIGHSTAT	Approved	
+DRUG0085	HIGHDISE	Anaesthesia	
+			
+DRUG0086	DRUGNAME	Naltrexone	
+DRUG0086	DRUGTYPE	Small molecular drug	
+DRUG0086	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0086	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0086	PCHEMCID	CID: 5360515	
+DRUG0086	HIGHSTAT	Approved	
+DRUG0086	HIGHDISE	Alcoholism	
+			
+DRUG0087	DRUGNAME	Melphalan	
+DRUG0087	DRUGTYPE	Small molecular drug	
+DRUG0087	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0087	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0087	PCHEMCID	CID: 460612	
+DRUG0087	HIGHSTAT	Approved	
+DRUG0087	HIGHDISE	Ovarian neoplasms	
+			
+DRUG0088	DRUGNAME	ArtemiC	
+DRUG0088	DRUGTYPE	Small molecular drug	
+DRUG0088	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0088	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0088	PCHEMCID	CID: 11629819	
+			
+DRUG0306	DRUGNAME	VERU-111	
+DRUG0306	DRUGTYPE	Small molecular drug	
+DRUG0306	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0306	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0306	PCHEMCID	CID: 53379371	
+			
+DRUG0057	DRUGNAME	Deferoxamine	
+DRUG0057	DRUGTYPE	Small molecular drug	
+DRUG0057	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0057	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+DRUG0057	PCHEMCID	CID: 2973	
+DRUG0057	HIGHSTAT	Approved	
+DRUG0057	HIGHDISE	Acute iron or aluminum toxicity	
+			
+DRUG0058	DRUGNAME	Indomethacin	
+DRUG0058	DRUGTYPE	Small molecular drug	
+DRUG0058	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0058	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+DRUG0058	PCHEMCID	CID: 3715	
+DRUG0058	HIGHSTAT	Approved	
+DRUG0058	HIGHDISE	Rheumatoid arthritis	
+			
+DRUG0059	DRUGNAME	Methotrexate	
+DRUG0059	DRUGTYPE	Small molecular drug	
+DRUG0059	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0059	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+DRUG0059	PCHEMCID	CID: 126941	
+DRUG0059	HIGHSTAT	Approved	
+DRUG0059	HIGHDISE	Choriocarcinoma	
+			
+DRUG0060	DRUGNAME	AVM0703	
+DRUG0060	DRUGTYPE	Small molecular drug	
+DRUG0060	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0060	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0044	DRUGNAME	TAK-981	
+DRUG0044	DRUGTYPE	Small molecular drug	
+DRUG0044	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0044	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0044	PCHEMCID	CID: 118628567	
+			
+DRUG0045	DRUGNAME	Progesterone	
+DRUG0045	DRUGTYPE	Small molecular drug	
+DRUG0045	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0045	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0045	PCHEMCID	CID: 5994	
+DRUG0045	HIGHSTAT	Approved	
+DRUG0045	HIGHDISE	Amenorrhea	
+			
+DRUG0046	DRUGNAME	Sulfonatoporphyrin	
+DRUG0046	DRUGTYPE	Small molecular drug	
+DRUG0046	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0046	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0046	PCHEMCID	CID: 129653953	
+			
+DRUG0047	DRUGNAME	SnPP Protoporphyrin	
+DRUG0047	DRUGTYPE	Small molecular drug	
+DRUG0047	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0047	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0047	PCHEMCID	CID: 73755113	
+			
+DRUG0048	DRUGNAME	Plitidepsin	
+DRUG0048	DRUGTYPE	Small molecular drug	
+DRUG0048	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0048	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+DRUG0048	PCHEMCID	CID: 9812534	
+			
+DRUG0139	DRUGNAME	TMCB	
+DRUG0139	DRUGTYPE	Small molecular drug	
+DRUG0139	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0139	DRUGSTAT	Investigative Agent	
+DRUG0139	PCHEMCID	CID: 46943415	
+			
+DRUG0140	DRUGNAME	Indinavir	
+DRUG0140	DRUGTYPE	Small molecular drug	
+DRUG0140	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0140	DRUGSTAT	Investigative Agent	
+DRUG0140	PCHEMCID	CID: 5362440	
+DRUG0140	HIGHSTAT	Approved	
+DRUG0140	HIGHDISE	HIV infections	
+			
+DRUG0141	DRUGNAME	Amprenavir	
+DRUG0141	DRUGTYPE	Small molecular drug	
+DRUG0141	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0141	DRUGSTAT	Investigative Agent	
+DRUG0141	PCHEMCID	CID: 65016	
+DRUG0141	HIGHSTAT	Approved	
+DRUG0141	HIGHDISE	HIV infections	
+			
+DRUG0142	DRUGNAME	Triazavirin	
+DRUG0142	DRUGTYPE	Small molecular drug	
+DRUG0142	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0142	DRUGSTAT	Investigative Agent	
+DRUG0142	PCHEMCID	CID: 3113817	
+DRUG0142	HIGHSTAT	Phase 2	
+DRUG0142	HIGHDISE	Influenza virus infection	
+			
+DRUG0143	DRUGNAME	Linezolid	
+DRUG0143	DRUGTYPE	Small molecular drug	
+DRUG0143	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0143	DRUGSTAT	Investigative Agent	
+DRUG0143	PCHEMCID	CID: 441401	
+DRUG0143	HIGHSTAT	Approved	
+DRUG0143	HIGHDISE	Bacterial infections	
+			
+DRUG0144	DRUGNAME	Oxymethalone	
+DRUG0144	DRUGTYPE	Small molecular drug	
+DRUG0144	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0144	DRUGSTAT	Investigative Agent	
+DRUG0144	PCHEMCID	CID: 5281034	
+			
+DRUG0145	DRUGNAME	Heparin	
+DRUG0145	DRUGTYPE	Small molecular drug	
+DRUG0145	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0145	DRUGSTAT	Investigative Agent	
+DRUG0145	PCHEMCID	CID: 772	
+DRUG0145	HIGHSTAT	Approved	
+DRUG0145	HIGHDISE	Venous thrombosis	
+			
+DRUG0146	DRUGNAME	EIDD-2801	
+DRUG0146	DRUGTYPE	Small molecular drug	
+DRUG0146	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0146	DRUGSTAT	Investigative Agent	
+DRUG0146	PCHEMCID	CID: 145996610	
+			
+DRUG0147	DRUGNAME	EIDD-1931	
+DRUG0147	DRUGTYPE	Small molecular drug	
+DRUG0147	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0147	DRUGSTAT	Investigative Agent	
+DRUG0147	PCHEMCID	CID: 353014	
+			
+DRUG0128	DRUGNAME	DAS181	
+DRUG0128	DRUGTYPE	Protein/peptide drug	
+DRUG0128	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0128	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0128	PCHEMCID	SID: 381125922	
+			
+DRUG0129	DRUGNAME	Interferon beta-1a	
+DRUG0129	DRUGTYPE	Protein/peptide drug	
+DRUG0129	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0129	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+DRUG0129	HIGHSTAT	Approved	
+DRUG0129	HIGHDISE	Multiple sclerosis	
+			
+DRUG0113	DRUGNAME	Aviptadil	
+DRUG0113	DRUGTYPE	Protein/peptide drug	
+DRUG0113	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0113	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0113	PCHEMCID	CID: 16132300	
+			
+DRUG0114	DRUGNAME	Angiotensin (1-7)	
+DRUG0114	DRUGTYPE	Protein/peptide drug	
+DRUG0114	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0114	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+DRUG0114	PCHEMCID	CID: 123805	
+			
+DRUG0089	DRUGNAME	Thymosin	
+DRUG0089	DRUGTYPE	Protein/peptide drug	
+DRUG0089	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0089	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0089	PCHEMCID	CID: 44286042	
+			
+DRUG0090	DRUGNAME	Pegylated interferon lambda	
+DRUG0090	DRUGTYPE	Protein/peptide drug	
+DRUG0090	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0090	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0091	DRUGNAME	Peginterferon lambda alfa-1a	
+DRUG0091	DRUGTYPE	Protein/peptide drug	
+DRUG0091	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0091	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0092	DRUGNAME	Peginterferon lambda-1a	
+DRUG0092	DRUGTYPE	Protein/peptide drug	
+DRUG0092	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0092	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0093	DRUGNAME	Dornase alfa	
+DRUG0093	DRUGTYPE	Protein/peptide drug	
+DRUG0093	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0093	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0093	HIGHSTAT	Approved	
+DRUG0093	HIGHDISE	Cystic fibrosis	
+			
+DRUG0094	DRUGNAME	DFV890	
+DRUG0094	DRUGTYPE	Protein/peptide drug	
+DRUG0094	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0094	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0037	DRUGNAME	Interferon-alpha 2b	
+DRUG0037	DRUGTYPE	Protein/peptide drug	
+DRUG0037	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0037	DRUGSTAT	Drug in Early Phase 1 Clinical Trial	
+DRUG0037	HIGHSTAT	Approved	
+DRUG0037	HIGHDISE	Hairy cell leukemia	
+			
+DRUG0148	DRUGNAME	BXT-25	
+DRUG0148	DRUGTYPE	Protein/peptide drug	
+DRUG0148	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0148	DRUGSTAT	Investigative Agent	
+			
+DRUG0130	DRUGNAME	Ritonavir + oseltamivir	
+DRUG0130	DRUGTYPE	Combination drug	
+DRUG0130	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0130	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0131	DRUGNAME	Hydroxychloroquine + camostat mesylate	
+DRUG0131	DRUGTYPE	Combination drug	
+DRUG0131	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0131	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0132	DRUGNAME	Hydroxychloroquine + intravenous famotidine	
+DRUG0132	DRUGTYPE	Combination drug	
+DRUG0132	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0132	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0133	DRUGNAME	Hydroxychloroquine + azithromycin	
+DRUG0133	DRUGTYPE	Combination drug	
+DRUG0133	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0133	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0134	DRUGNAME	Diltiazem + niclosamide	
+DRUG0134	DRUGTYPE	Combination drug	
+DRUG0134	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0134	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0135	DRUGNAME	Nitazoxanide + ivermectin + chloroquine	
+DRUG0135	DRUGTYPE	Combination drug	
+DRUG0135	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0135	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0136	DRUGNAME	Levamisole + isoprinosine	
+DRUG0136	DRUGTYPE	Combination drug	
+DRUG0136	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0136	DRUGSTAT	Drug in Phase 3 Clinical Trial	
+			
+DRUG0115	DRUGNAME	Levamisole Pill + Budesonide+Formoterol inhaler	
+DRUG0115	DRUGTYPE	Combination drug	
+DRUG0115	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0115	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+			
+DRUG0116	DRUGNAME	Lopinavir + ritonavir + hydoxychloroquine	
+DRUG0116	DRUGTYPE	Combination drug	
+DRUG0116	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0116	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+			
+DRUG0117	DRUGNAME	Ivermectin + nitazoxanide	
+DRUG0117	DRUGTYPE	Combination drug	
+DRUG0117	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0117	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+			
+DRUG0118	DRUGNAME	Hydroxychloroquine + nitazoxanide	
+DRUG0118	DRUGTYPE	Combination drug	
+DRUG0118	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0118	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+			
+DRUG0119	DRUGNAME	Metenkefalin + tridecactide	
+DRUG0119	DRUGTYPE	Combination drug	
+DRUG0119	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0119	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+			
+DRUG0120	DRUGNAME	RPH-104 + Olokizumab	
+DRUG0120	DRUGTYPE	Combination drug	
+DRUG0120	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0120	DRUGSTAT	Drug in Phase 2/3 Clinical Trial	
+			
+DRUG0095	DRUGNAME	Thalidomide + hormones	
+DRUG0095	DRUGTYPE	Combination drug	
+DRUG0095	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0095	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0096	DRUGNAME	Ribavirin + lopinavir + ritonavir + interferon beta-1b	
+DRUG0096	DRUGTYPE	Combination drug	
+DRUG0096	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0096	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0097	DRUGNAME	N-acetylcysteine + Fuzheng Huayu	
+DRUG0097	DRUGTYPE	Combination drug	
+DRUG0097	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0097	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0098	DRUGNAME	Danoprevir + ritonavir + interferon	
+DRUG0098	DRUGTYPE	Combination drug	
+DRUG0098	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0098	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0099	DRUGNAME	Danoprevir + ritonavir	
+DRUG0099	DRUGTYPE	Combination drug	
+DRUG0099	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0099	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0100	DRUGNAME	Atovaquone + azithromycin	
+DRUG0100	DRUGTYPE	Combination drug	
+DRUG0100	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0100	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0101	DRUGNAME	Hydroxychloroquine + azithromycin + tocilizumab	
+DRUG0101	DRUGTYPE	Combination drug	
+DRUG0101	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0101	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0102	DRUGNAME	Mefloquine + azithromycin	
+DRUG0102	DRUGTYPE	Combination drug	
+DRUG0102	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0102	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0103	DRUGNAME	Mefloquine + azithromycin +  tocilizumab	
+DRUG0103	DRUGTYPE	Combination drug	
+DRUG0103	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0103	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0104	DRUGNAME	Ruxolitinib + simvastatin	
+DRUG0104	DRUGTYPE	Combination drug	
+DRUG0104	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0104	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0105	DRUGNAME	Hydroxychloroquine + ivermectin	
+DRUG0105	DRUGTYPE	Combination drug	
+DRUG0105	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0105	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0049	DRUGNAME	Hydroxychloroquin + azithromycin + ivermectin	
+DRUG0049	DRUGTYPE	Combination drug	
+DRUG0049	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0049	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0050	DRUGNAME	MCN (Methylene blue, vitamin C, N-acetyl cysteine)	
+DRUG0050	DRUGTYPE	Combination drug	
+DRUG0050	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0050	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0106	DRUGNAME	Umbilical Cord Mesenchymal Stem Cells	
+DRUG0106	DRUGTYPE	Cell therapy	
+DRUG0106	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0106	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0107	DRUGNAME	Mesenchymal stem cells	
+DRUG0107	DRUGTYPE	Cell therapy	
+DRUG0107	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0107	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+DRUG0107	HIGHSTAT	Approved	
+DRUG0107	HIGHDISE	Epidermolysis Bullosa	
+			
+DRUG0108	DRUGNAME	HB-adMSCs cell	
+DRUG0108	DRUGTYPE	Cell therapy	
+DRUG0108	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0108	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0109	DRUGNAME	Mesenchymal stromal cells	
+DRUG0109	DRUGTYPE	Cell therapy	
+DRUG0109	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0109	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0110	DRUGNAME	Dialyzable leukocyte cell	
+DRUG0110	DRUGTYPE	Cell therapy	
+DRUG0110	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0110	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0066	DRUGNAME	Ad5-nCoV	
+DRUG0066	DRUGTYPE	Vaccine	
+DRUG0066	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0066	DRUGSTAT	Drug in Phase 2 Clinical Trial	
+			
+DRUG0061	DRUGNAME	Natural killer cells	
+DRUG0061	DRUGTYPE	Cell therapy	
+DRUG0061	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0061	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0062	DRUGNAME	Allogeneic human dental pulp stem cells (BSH BTC & Utooth BTC)	
+DRUG0062	DRUGTYPE	Cell therapy	
+DRUG0062	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0062	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0063	DRUGNAME	Allogeneic NK transfer	
+DRUG0063	DRUGTYPE	Cell therapy	
+DRUG0063	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0063	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0064	DRUGNAME	BM-MSCs cell	
+DRUG0064	DRUGTYPE	Cell therapy	
+DRUG0064	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0064	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0065	DRUGNAME	CYNK-001	
+DRUG0065	DRUGTYPE	Cell therapy	
+DRUG0065	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0065	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0054	DRUGNAME	LV-SMENP-DC	
+DRUG0054	DRUGTYPE	Vaccine	
+DRUG0054	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0054	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0055	DRUGNAME	ChAdOx1 nCoV-19	
+DRUG0055	DRUGTYPE	Vaccine	
+DRUG0055	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0055	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0056	DRUGNAME	BNT162a1	
+DRUG0056	DRUGTYPE	Vaccine	
+DRUG0056	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0056	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0051	DRUGNAME	Wharton's Jelly-Mesenchymal Stem Cells	
+DRUG0051	DRUGTYPE	Cell therapy	
+DRUG0051	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0051	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0052	DRUGNAME	Nest mesenchymal stem cells	
+DRUG0052	DRUGTYPE	Cell therapy	
+DRUG0052	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0052	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0053	DRUGNAME	FT516	
+DRUG0053	DRUGTYPE	Cell therapy	
+DRUG0053	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0053	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0038	DRUGNAME	mRNA-1273	
+DRUG0038	DRUGTYPE	Vaccine	
+DRUG0038	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0038	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0039	DRUGNAME	Pathogen-specific aAPC	
+DRUG0039	DRUGTYPE	Vaccine	
+DRUG0039	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0039	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0040	DRUGNAME	Covid-19 aAPC	
+DRUG0040	DRUGTYPE	Vaccine	
+DRUG0040	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0040	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0041	DRUGNAME	BacTRL-Spike	
+DRUG0041	DRUGTYPE	Vaccine	
+DRUG0041	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0041	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0042	DRUGNAME	INO-4800	
+DRUG0042	DRUGTYPE	Vaccine	
+DRUG0042	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0042	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0043	DRUGNAME	SARS-CoV-2 rS vaccine	
+DRUG0043	DRUGTYPE	Vaccine	
+DRUG0043	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0043	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0149	DRUGNAME	TNX-1800 vaccine	
+DRUG0149	DRUGTYPE	Vaccine	
+DRUG0149	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0149	DRUGSTAT	Preclinical Drug	
+			
+DRUG0150	DRUGNAME	Li-Key peptide vaccine	
+DRUG0150	DRUGTYPE	Vaccine	
+DRUG0150	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0150	DRUGSTAT	Preclinical Drug	
+			
+DRUG0137	DRUGNAME	Linear DNA vaccine	
+DRUG0137	DRUGTYPE	Vaccine	
+DRUG0137	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0137	DRUGSTAT	Investigative Agent	
+			
+DRUG0138	DRUGNAME	NasoVAX vaccine	
+DRUG0138	DRUGTYPE	Vaccine	
+DRUG0138	DISEASES	Coronavirus Disease 2019 (COVID-19)	
+DRUG0138	DRUGSTAT	Investigative Agent	
+			
+			
+DRUG0011	DRUGNAME	Loperamide	
+DRUG0011	DRUGTYPE	Small molecular drug	
+DRUG0011	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0011	DRUGSTAT	Preclinical Drug	
+DRUG0011	PCHEMCID	CID: 3955	
+DRUG0011	HIGHSTAT	Approved	
+DRUG0011	HIGHDISE	Diarrhea	
+			
+DRUG0012	DRUGNAME	Amodiaquine	
+DRUG0012	DRUGTYPE	Small molecular drug	
+DRUG0012	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0012	DRUGSTAT	Preclinical Drug	
+DRUG0012	PCHEMCID	CID: 2165	
+DRUG0012	HIGHSTAT	Withdrawn from market	
+DRUG0012	HIGHDISE	Malaria	
+			
+DRUG0013	DRUGNAME	Mefloquine	
+DRUG0013	DRUGTYPE	Small molecular drug	
+DRUG0013	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0013	DRUGSTAT	Preclinical Drug	
+DRUG0013	PCHEMCID	CID: 40692	
+DRUG0013	HIGHSTAT	Approved	
+DRUG0013	HIGHDISE	Malaria	
+			
+DRUG0014	DRUGNAME	Gemcitabine	
+DRUG0014	DRUGTYPE	Small molecular drug	
+DRUG0014	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0014	DRUGSTAT	Preclinical Drug	
+DRUG0014	PCHEMCID	CID: 60750	
+DRUG0014	HIGHSTAT	Approved	
+DRUG0014	HIGHDISE	Non-small cell lung cancer	
+			
+DRUG0015	DRUGNAME	K22	
+DRUG0015	DRUGTYPE	Small molecular drug	
+DRUG0015	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0015	DRUGSTAT	Preclinical Drug	
+			
+DRUG0036	DRUGNAME	Resveratrol	
+DRUG0036	DRUGTYPE	Small molecular drug	
+DRUG0036	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0036	DRUGSTAT	Preclinical Drug	
+DRUG0036	PCHEMCID	CID: 445154	
+			
+DRUG0010	DRUGNAME	Chloroquine	
+DRUG0010	DRUGTYPE	Small molecular drug	
+DRUG0010	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0010	DRUGSTAT	Investigative Agent	
+DRUG0010	PCHEMCID	CID: 2719	
+DRUG0010	HIGHSTAT	Withdrawn from market	
+DRUG0010	HIGHDISE	Malaria	
+			
+DRUG0030	DRUGNAME	Saracatinib	
+DRUG0030	DRUGTYPE	Small molecular drug	
+DRUG0030	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0030	DRUGSTAT	Investigative Agent	
+DRUG0030	PCHEMCID	CID: 10302451	
+DRUG0030	HIGHSTAT	Phase 2	
+DRUG0030	HIGHDISE	Metastatic colorectal cancer	
+			
+DRUG0031	DRUGNAME	Emetine hydrochloride	
+DRUG0031	DRUGTYPE	Small molecular drug	
+DRUG0031	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0031	DRUGSTAT	Investigative Agent	
+DRUG0031	PCHEMCID	CID: 10219	
+			
+DRUG0032	DRUGNAME	Monensin sodium	
+DRUG0032	DRUGTYPE	Small molecular drug	
+DRUG0032	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0032	DRUGSTAT	Investigative Agent	
+DRUG0032	PCHEMCID	CID: 23667299	
+			
+DRUG0033	DRUGNAME	Phenazopyridine	
+DRUG0033	DRUGTYPE	Small molecular drug	
+DRUG0033	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0033	DRUGSTAT	Investigative Agent	
+DRUG0033	PCHEMCID	CID: 4756	
+			
+DRUG0034	DRUGNAME	Mycophenolate mofetil	
+DRUG0034	DRUGTYPE	Small molecular drug	
+DRUG0034	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0034	DRUGSTAT	Investigative Agent	
+DRUG0034	PCHEMCID	CID: 5281078	
+			
+DRUG0035	DRUGNAME	Pyrvinium pamoate	
+DRUG0035	DRUGTYPE	Small molecular drug	
+DRUG0035	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0035	DRUGSTAT	Investigative Agent	
+DRUG0035	PCHEMCID	CID: 54680693	
+			
+DRUG0017	DRUGNAME	SAB-301	
+DRUG0017	DRUGTYPE	Polyclonal antibody	
+DRUG0017	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0017	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+			
+DRUG0018	DRUGNAME	REGN3048 + REGN3051 mabs	
+DRUG0018	DRUGTYPE	Combination drug	
+DRUG0018	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0018	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+			
+DRUG0024	DRUGNAME	MVA-MERS-S_DF-1 vaccine	
+DRUG0024	DRUGTYPE	Vaccine	
+DRUG0024	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0024	DRUGSTAT	Drug in Phase 1b Clinical Trial	
+			
+DRUG0021	DRUGNAME	GLS-5300	
+DRUG0021	DRUGTYPE	Vaccine	
+DRUG0021	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0021	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0022	DRUGNAME	BVRS-GamVac-Combi	
+DRUG0022	DRUGTYPE	Vaccine	
+DRUG0022	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0022	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0023	DRUGNAME	BVRS-GamVac	
+DRUG0023	DRUGTYPE	Vaccine	
+DRUG0023	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0023	DRUGSTAT	Drug in Phase 1/2 Clinical Trial	
+			
+DRUG0019	DRUGNAME	ChAdOx1 MERS001	
+DRUG0019	DRUGTYPE	Vaccine	
+DRUG0019	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0019	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0020	DRUGNAME	ChAdOx1 MERS002	
+DRUG0020	DRUGTYPE	Vaccine	
+DRUG0020	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0020	DRUGSTAT	Drug in Phase 1 Clinical Trial	
+			
+DRUG0025	DRUGNAME	MERS-CoV SDNA	
+DRUG0025	DRUGTYPE	Vaccine	
+DRUG0025	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0025	DRUGSTAT	Investigative Agent	
+			
+DRUG0026	DRUGNAME	rMERS-CoV E	
+DRUG0026	DRUGTYPE	Vaccine	
+DRUG0026	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0026	DRUGSTAT	Investigative Agent	
+			
+DRUG0027	DRUGNAME	VRP S	
+DRUG0027	DRUGTYPE	Vaccine	
+DRUG0027	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0027	DRUGSTAT	Investigative Agent	
+			
+DRUG0028	DRUGNAME	S(377-588)-Fc	
+DRUG0028	DRUGTYPE	Vaccine	
+DRUG0028	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0028	DRUGSTAT	Investigative Agent	
+			
+DRUG0029	DRUGNAME	MERS-CoVS-containing nanoparticles	
+DRUG0029	DRUGTYPE	Vaccine	
+DRUG0029	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0029	DRUGSTAT	Investigative Agent	
+			
+DRUG0016	DRUGNAME	MVA-MERS-S vaccine	
+DRUG0016	DRUGTYPE	Vaccine	
+DRUG0016	DISEASES	Middle East Respiratory Syndrome (MERS)	
+DRUG0016	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+			
+			
+DRUG0011	DRUGNAME	Loperamide	
+DRUG0011	DRUGTYPE	Small molecular drug	
+DRUG0011	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0011	DRUGSTAT	Preclinical Drug	
+DRUG0011	PCHEMCID	CID: 3955	
+DRUG0011	HIGHSTAT	Approved	
+DRUG0011	HIGHDISE	Diarrhea	
+			
+DRUG0012	DRUGNAME	Amodiaquine	
+DRUG0012	DRUGTYPE	Small molecular drug	
+DRUG0012	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0012	DRUGSTAT	Preclinical Drug	
+DRUG0012	PCHEMCID	CID: 2165	
+DRUG0012	HIGHSTAT	Withdrawn from market	
+DRUG0012	HIGHDISE	Malaria	
+			
+DRUG0013	DRUGNAME	Mefloquine	
+DRUG0013	DRUGTYPE	Small molecular drug	
+DRUG0013	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0013	DRUGSTAT	Preclinical Drug	
+DRUG0013	PCHEMCID	CID: 40692	
+DRUG0013	HIGHSTAT	Approved	
+DRUG0013	HIGHDISE	Malaria	
+			
+DRUG0014	DRUGNAME	Gemcitabine	
+DRUG0014	DRUGTYPE	Small molecular drug	
+DRUG0014	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0014	DRUGSTAT	Preclinical Drug	
+DRUG0014	PCHEMCID	CID: 60750	
+DRUG0014	HIGHSTAT	Approved	
+DRUG0014	HIGHDISE	Non-small cell lung cancer	
+			
+DRUG0015	DRUGNAME	K22	
+DRUG0015	DRUGTYPE	Small molecular drug	
+DRUG0015	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0015	DRUGSTAT	Preclinical Drug	
+			
+DRUG0006	DRUGNAME	Zanamivir	
+DRUG0006	DRUGTYPE	Small molecular drug	
+DRUG0006	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0006	DRUGSTAT	Investigative Agent	
+DRUG0006	PCHEMCID	CID: 60855	
+DRUG0006	HIGHSTAT	Approved	
+DRUG0006	HIGHDISE	Influenza	
+			
+DRUG0007	DRUGNAME	Rimantadine	
+DRUG0007	DRUGTYPE	Small molecular drug	
+DRUG0007	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0007	DRUGSTAT	Investigative Agent	
+DRUG0007	PCHEMCID	CID: 5071	
+DRUG0007	HIGHSTAT	Approved	
+DRUG0007	HIGHDISE	Influenza	
+			
+DRUG0008	DRUGNAME	4E2Rcat	
+DRUG0008	DRUGTYPE	Small molecular drug	
+DRUG0008	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0008	DRUGSTAT	Investigative Agent	
+DRUG0008	PCHEMCID	CID: 2287236	
+			
+DRUG0009	DRUGNAME	Amantadine	
+DRUG0009	DRUGTYPE	Small molecular drug	
+DRUG0009	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0009	DRUGSTAT	Investigative Agent	
+DRUG0009	PCHEMCID	CID: 2130	
+DRUG0009	HIGHSTAT	Approved	
+DRUG0009	HIGHDISE	Influenza	
+			
+DRUG0010	DRUGNAME	Chloroquine	
+DRUG0010	DRUGTYPE	Small molecular drug	
+DRUG0010	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0010	DRUGSTAT	Investigative Agent	
+DRUG0010	PCHEMCID	CID: 2719	
+DRUG0010	HIGHSTAT	Withdrawn from market	
+DRUG0010	HIGHDISE	Malaria	
+			
+DRUG0005	DRUGNAME	Streptokinase	
+DRUG0005	DRUGTYPE	Protein/peptide drug	
+DRUG0005	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0005	DRUGSTAT	Discontinue Drug in Phase 3 Clinical Trial	
+DRUG0005	HIGHSTAT	Phase 4	
+DRUG0005	HIGHDISE	Acute Myocardial Infarction	
+			
+DRUG0004	DRUGNAME	Alferon LDO	
+DRUG0004	DRUGTYPE	Protein/peptide drug	
+DRUG0004	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0004	DRUGSTAT	Discontinue Drug in Phase 2 Clinical Trial	
+			
+DRUG0001	DRUGNAME	VRC-SRSDNA015-00-VP vaccine	
+DRUG0001	DRUGTYPE	Vaccine	
+DRUG0001	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0001	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+			
+DRUG0002	DRUGNAME	SARS-CoV vaccine	
+DRUG0002	DRUGTYPE	Vaccine	
+DRUG0002	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0002	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
+			
+DRUG0003	DRUGNAME	Recombinant S protein SARS vaccine	
+DRUG0003	DRUGTYPE	Vaccine	
+DRUG0003	DISEASES	Severe acute respiratory syndrome (SARS)	
+DRUG0003	DRUGSTAT	Discontinue Drug in Phase 1 Clinical Trial	
