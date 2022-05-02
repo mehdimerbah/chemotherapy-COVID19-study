@@ -1,0 +1,85 @@
+---
+title: "Targets Enrichment Analysis"
+author: "Mehdi Merbah"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+##Loading Packages
+```{r}
+suppressWarnings(library(enrichR))
+suppressWarnings(library(ggplot2))
+```
+
+## Pathway Enrichment Analysis
+
+        The following is a Pathway Enrichment Analysis performed using the enrichR package focused on 4 databases: KEGG, Reactome, Wiki Pathways and Elsevier Pathways. The goal is to see if there are any common pathways or biological functions/processes between the Chemotherapeutic Agents targets and COVID19 Targets. 
+### Chemo Drug Targets
+```{r}
+chemo_drug_targets <- c("EGFR","ERBB2","ERBB4","KRAS","EML4","MET","BRAF","NRG1","NRAS","ERBB3","ALK","FGFR1","EML4","NPM1","CDKN2A","SMAD4","RET","VEGFA","PRKCA","EDN1","VEGFC","MGAT4A","VEGFB","RGS5","THBS2","ARMS2","SHMT1","CFH","GGH","HSP90AB1","MTHFR","VHL","HRAS","CXCR4","BRAF","GC","MMP9","MMP2","HTRA1","GCLC","ATP7A","GPX5","PRRC2A","XRCC1","TP73","SOX10","C6ORF15","EIF3A","ACSS2","ERCC1","BRCA2","MTHFR","DOCK8","MAP3K1","HLA-C","FNTB","DSCAM","MSH5","SLC31A1","TRIM5","MAD1L1","ATP7B","ATAT1","SMAD4","SERPINA5","ETS2","MUCL3","XYLT2","PSORS1C1","NF2","ERCC2","CDSN","MTR","BARD1","RNF8","GSR","SLCO1B3","PPP1R18","SLC19A1","HCP5","IGF1R","ALK","INSR","TSSK1B","SRC","MAP2K1","EML4","ROS1","NPM1","SLC22A16","NOS3","QUINONE REDUCTASE 2","GNL3","XRCC1","ERCC1","CYP2A6","IL5","CYP2B6","TP53AIP1","PNPLA3","DROSHA","LINC00251","BMP7","MUTYH","CBR1","CBR3","LIG3","ALDH3A1","IRS1","HMMR","PERP","ACTB","GSTP1","CXCL12","PPP2R5D","DOK5","SOD2","CCNK","NTF3","RBX1","TPMT","EPHX1","TNFRSF1A","GSTA1","ADH1C","FOXO1","MYCN","CTH","NAT2","GATA3","TUBA3D","TUBA4A","TUBA1B","TUBA3E","TUBB8","TUBB2B","TUBB4B","TUBA1A","TUBA1C","TUBB3","TUBB6","TUBB2A","FOLH1","SLC10A2","EPHX1","RRM1","CYP4B1","IGF2","PGP","SOX10","XRCC1","PPCDC","ERCC2","KLK3","BARD1","ATP7A","HNF4A","SPG7","XRCC4","TLE3","RNF8","ORM2","MAP3K1","BCL2","SULT1C4","RPL13","CHST3","MUC16","SNORD68","NR1I3","SLCO1B3","MDM4","VAC14","ABCC6","FBXW7","ACSS2","AKR1C3","PRDX4","GAS6","MTOR","FKBP1A","GNAQ","RPTOR","BRCA2","STK11","BRAF","RB1","NF2","HRAS","BAP1","KDM5C","PTEN","NOTCH1","NRAS","FLCN","VHL","PIK3CA","TSC2","TSC1","MPL","PBRM1","GNA11","TUBB","TUBB8","TUBA4A","TUBA3E","TUBB2A","TUBA1A","TUBB1","TUBB3","TUBA3D","TUBB2B","TUBA1C","TUBA1B","BCL2","TUBB4B","TUBB6","ACSS2","STMN1","MAP3K1","FNTB","ERCC2","FGD4","PDCD4","DSCAM","EPHA5","EIF4EBP1","MYB","GSTT1","TUBB4A","PGP","SOD2","SLCO1B3","TUBA3C","LIF","TLE3","SMAD4","SPATA5","NFE2","MAD1L1","EDNRB","SOX10","TRIM5","ABCC10","FOS","ERCC1","TUBB","TUBB8","TUBA4A","TUBA3E","TUBB2A","TUBA1A","TUBB1","TUBB3","TUBA3D","TUBB2B","TUBA1C","TUBA1B","BCL2","TUBB4B","TUBB6","ACSS2","STMN1","MAP3K1","FNTB","ERCC2","FGD4","PDCD4","DSCAM","EPHA5","EIF4EBP1","MYB","GSTT1","TUBB4A","PGP","SOD2","SLCO1B3","TUBA3C","LIF","TLE3","SMAD4","SPATA5","NFE2","MAD1L1","EDNRB","SOX10","TRIM5","ABCC10","FOS","ERCC1","PDCD1","PDCD1LG2","B2M","MDM2","CDK12","PBRM1","STK11","ARID1A","CD274","ALK","MDM4","POLE","HLA-DRA","EGFR","JAK1","JAK2","NRAS","BRAF","PTEN","DHFR","GART","TYMS","ATIC","FOLR3","SLC46A1","MTHFR","GGH","KRAS","ALK","SLC19A1","KDR","PDGFRA","KRAS","EGFR","ERBB2","ALK","TOP1MT","TOP1","TYMS","ATRX","BDNF","RB1","MUC16","ALK","DDO","AKT1","ABCG2","TUBA1A","TUBB8","TUBB3","TUBB2A","TUBA3E","TUBA4A","TUBA3D","TUBA1C","TUBB6","TUBB4B","TUBA1B","TUBB2B","BRAF","PREX2","CIC","CDKN2A","STAG3","AKT3","MAP2K1","MAP2K2","PTEN","STAG2","PIK3R2","NRAS","NF1","ATXN1L","RAC1","SOX10")
+chemo_drug_targets[1:10]
+```
+### COVID19 Targets
+```{r}
+covid19_targets <- c("SLC33A1","AAK1","GAK","DPP4","JAK1","JAK2","PDE5A","CSF2","C5","IL6","IL6R","IL6ST","IL1R1","AGTR1","TPCN2","DHODH","C5","IFNG","NO-GeName","TMPRSS2","ACE2","BTK","ANGPT2","C5AR1","CCR5","CXCL8","PIK3CD","PIK3CG","TLR2","TLR6","TLR9","MTOR","BSG","TLR3","CTSL","FURIN","GLA","ATP6AP1","BRD4","CSNK2A2","COMT","CEP250","cullin2","DCTPP1","DNMT1","EIF4E2","SLC1A3","GLAST","GLAST1","FKBP10","FKBP15","FKBP7","HDAC2","LARP1","PLOD2","LOX","MARK2","MARK3","ABCC1","NDUFAF2","NDUFB9","TBK1","NEK9","PTGES2","PRKACA","F2RL1","RIPK1","SLC6A15","ATP6V1A","BRD2","PPIA","PPIF","MAP2K1","MAP2K2","EIF4A1","EIF4A2","EIF4A3","BCR-ABL1","IMPDH1","IMPDH2","MRC1","SIGMAR1","TMEM97","ATP1A1","VCP","BCHE","CRP","PTX1","IL1B","IL10","LDHA","LDHB","LDHC","TNF")
+covid19_targets[1:10]
+```
+### COVID19 Drugs Targets
+```{r}
+covid19_drugs_targets <- c("AAK1","ACE","ACE2","AGTR1","ANG-2","ATP1A1","BAR","Bcr-Abl","Bcr-Abl","BRD2","BTK","C5","C5A","C5aR","CCR5","CYP3","CYPA","DHODH","DPP-4","E","Furin","GAK","GHR","Hel","IFNG","IL1R1","IL6","IL6R","IL8","IMPDH1","IMPDH2","JAK-1","JAK-2","MEK1","MEK2","MRC1","PDE5","PIK3CD","PIK3CG","PL-PRO","RdRp","RME","TLR2","TLR3","TLR6","TLR9","TMEM97","TPC2","VCP","VEGF")
+covid19_drugs_targets[1:10]
+```
+### Common Targets Between the Chemotherpeutic Agents and COVID19
+```{r}
+covid_intersect_chemo <- intersect(chemo_drug_targets, covid19_targets)
+covid_intersect_chemo
+```
+### Construct Enrichment Sets
+We first construct the enrichment sets for both the drug and COVID targets and plot them.
+```{r}
+# Select databases
+dbs <- c("Reactome_2016", "KEGG_2021_Human", "WikiPathway_2021_Human", "Elsevier_Pathway_Collection")
+# Run enrichment on protein target sets
+enriched_chemo_drug_targets <- enrichr(chemo_drug_targets, dbs)
+enriched_covid19_targets <- enrichr(covid19_targets, dbs)
+enriched_covid19Drugs_targets <- enrichr(covid19_targets, dbs)
+enriched_common_targets <- enrichr(covid_intersect_chemo, dbs)
+```
+
+```{r}
+## Drug Targets Enrichment
+plotEnrich(enriched_chemo_drug_targets[[1]], title= "REACTOME Drug Target Enrichment")
+#plotEnrich(enriched_chemo_drug_targets[[2]], title= "KEGG Drug Target Enrichment")
+plotEnrich(enriched_chemo_drug_targets[[3]], title= "WikiPathway Drug Target Enrichment")
+#plotEnrich(enriched_chemo_drug_targets[[4]], title= "Elsevier Pathway Drug Target Enrichment")
+```
+```{r}
+## COVID Targets Enrichment
+plotEnrich(enriched_covid19_targets[[1]], title= "REACTOME COVID-19 Target Enrichment")
+#plotEnrich(enriched_covid19_targets[[2]], title= "KEGG COVID-19 Target Enrichment")
+plotEnrich(enriched_covid19_targets[[3]], title= "WikiPathway COVID-19 Target Enrichment")
+#plotEnrich(enriched_covid19_targets[[4]], title= "Elsevier Pathway COVID-19 Target Enrichment")
+```
+
+```{r}
+## Common Drug Targets Enrichment
+plotEnrich(enriched_common_targets[[1]], title= "REACTOME Common Target Enrichment")
+#plotEnrich(enriched_common_targets[[2]], title= "KEGG Common Target Enrichment")
+plotEnrich(enriched_common_targets[[3]], title= "WikiPathway Common Target Enrichment")
+#plotEnrich(enriched_common_targets[[4]], title= "Elsevier Pathway Common Target Enrichment")
+```
+```{r}
+## Common Drug Targets Enrichment
+plotEnrich(enriched_covid19Drugs_targets[[1]], title= "REACTOME COVID19 Drug Target Enrichment")
+#plotEnrich(enriched_covid19Drugs_targets[[2]], title= "KEGG COVID19 Drug Target Enrichment")
+plotEnrich(enriched_covid19Drugs_targets[[3]], title= "WikiPathway COVID19 Drug Target Enrichment")
+#plotEnrich(enriched_covid19Drugs_targets[[4]], title= "Elsevier Pathway COVID19 Drug Target Enrichment")
+```
+
